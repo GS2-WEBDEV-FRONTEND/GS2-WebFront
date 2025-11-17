@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "nome": "Ana Silva",
+    "cargo": "Engenheira de Software",
+    "cidade": "São Paulo/SP",
+    "area": "Tecnologia",
+    "descricao": "Desenvolvedora full-stack focada em criar soluções escaláveis e orientadas a dados.",
+    "habilidades": ["React", "Node.js", "TypeScript", "SQL", "Git", "Testes automatizados"],
+    "formacao": "Bacharelado em Ciência da Computação - USP",
+    "experiencias": [
+      "3 anos como Full Stack Developer na TechX",
+      "1 ano como estagiária em desenvolvimento na Globo"
+    ],
+    "contato": {
+      "email": "ana.silva@example.com",
+      "linkedin": "https://linkedin.com/in/anasilva"
+    }
+  },
+  {
+    "id": 2,
+    "nome": "João Santos",
+    "cargo": "UX Designer",
+    "cidade": "Curitiba/PR",
+    "area": "Design",
+    "descricao": "Designer de experiência do usuário com foco em pesquisa e prototipação rápida.",
+    "habilidades": ["Figma", "UX Research", "UI Design", "Prototipação", "Design Systems"],
+    "formacao": "Design Digital - UTFPR",
+    "experiencias": [
+      "2 anos como UX Designer na Innovix",
+      "Freelancer em projetos de apps mobile"
+    ],
+    "contato": {
+      "email": "joao.santos@example.com",
+      "linkedin": "https://linkedin.com/in/joaosantos"
+    }
+  },
+  {
+    "id": 3,
+    "nome": "Mariana Costa",
+    "cargo": "Data Analyst",
+    "cidade": "Recife/PE",
+    "area": "Dados",
+    "descricao": "Analista de dados apaixonada por transformar números em decisões de negócio.",
+    "habilidades": ["Python", "SQL", "Power BI", "Pandas", "Estatística"],
+    "formacao": "Engenharia de Produção - UFPE",
+    "experiencias": [
+      "2 anos como Analista de Dados na FinData",
+      "Projeto de previsão de churn para e-commerce"
+    ],
+    "contato": {
+      "email": "mariana.costa@example.com",
+      "linkedin": "https://linkedin.com/in/marianacosta"
+    }
+  }
+]
