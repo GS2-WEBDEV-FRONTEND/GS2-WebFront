@@ -1,166 +1,134 @@
-// backend/server.js
-const express = require('express')
-const fs = require('fs')
-const path = require('path')
+const express = require("express");
+const cors = require("cors");
+const fs = require("fs");
+const path = require("path");
 
-const app = express()
-const PORT = 3000
+const app = express();
+const PORT = 3000;
 
-// Caminho do arquivo de entregas
-const ENTREGAS_FILE = path.join(__dirname, 'entregas.json')
+app.use(cors());
+app.use(express.json());
 
-// Armazenamento em memória
-const mensagens = []
-let entregas = []
+// Função helper para ler JSON com segurança
 
-// Carregar entregas salvas do arquivo (se existir)
-function carregarEntregasDoArquivo() {
+function lerJSON(caminho) {
   try {
-    if (fs.existsSync(ENTREGAS_FILE)) {
-      const conteudo = fs.readFileSync(ENTREGAS_FILE, 'utf8')
-      if (conteudo.trim().length > 0) {
-        entregas = JSON.parse(conteudo)
-      } else {
-        entregas = []
-      }
-      console.log(`📂 ${entregas.length} entregas carregadas de ${ENTREGAS_FILE}`)
-    } else {
-      entregas = []
-      console.log('📂 Nenhum arquivo de entregas encontrado, iniciando vazio.')
-    }
+    if (!fs.existsSync(caminho)) return [];
+    const conteudo = fs.readFileSync(caminho, "utf8");
+    return conteudo.trim() ? JSON.parse(conteudo) : [];
   } catch (erro) {
-    console.error('❌ Erro ao carregar entregas do arquivo:', erro)
-    entregas = []
+    console.error("Erro ao ler JSON:", erro);
+    return [];
   }
 }
 
-// Salvar entregas no arquivo
-function salvarEntregasNoArquivo() {
+// Função helper para salvar JSON com segurança
+
+function salvarJSON(caminho, dados) {
   try {
-    fs.writeFileSync(ENTREGAS_FILE, JSON.stringify(entregas, null, 2), 'utf8')
-    console.log(`💾 Entregas salvas em ${ENTREGAS_FILE}`)
+    fs.writeFileSync(caminho, JSON.stringify(dados, null, 2), "utf8");
+    return true;
   } catch (erro) {
-    console.error('❌ Erro ao salvar entregas no arquivo:', erro)
+    console.error("Erro ao salvar JSON:", erro);
+    return false;
   }
 }
 
-// Carrega entregas logo que o servidor sobe
-carregarEntregasDoArquivo()
+// Caminhos dos arquivos
+const mensagensPath = path.join(__dirname, "mensagens.json");
+const recomendacoesPath = path.join(__dirname, "recomendacoes.json");
 
-app.use(express.json())
+// ROTA 01 → ENVIAR MENSAGEM PARA PROFISSIONAL
 
-// CORS
-app.use((req, res, next) => {
-  res.header('Access-Control-Allow-Origin', '*')
-  res.header(
-    'Access-Control-Allow-Headers',
-    'Origin, X-Requested-With, Content-Type, Accept'
-  )
-  res.header('Access-Control-Allow-Methods', 'GET,POST,PUT,DELETE,OPTIONS')
-  if (req.method === 'OPTIONS') {
-    return res.sendStatus(200)
-  }
-  next()
-})
-
-app.get('/', (req, res) => {
-  res.send('API GS2 WebFront backend está rodando 🚀')
-})
-
-// Exemplo de profissionais (opcional)
-app.get('/api/profissionais', (req, res) => {
-  const profissionais = [
-    {
-      id: 1,
-      nome: 'Ana Silva',
-      cargo: 'Engenheira de Software',
-      cidade: 'São Paulo/SP',
-    },
-    {
-      id: 2,
-      nome: 'João Santos',
-      cargo: 'UX Designer',
-      cidade: 'Curitiba/PR',
-    },
-  ]
-
-  res.json(profissionais)
-})
-
-// ✅ Rota para envio de mensagem a profissional
-app.post('/api/mensagens', (req, res) => {
+app.post("/api/mensagens", (req, res) => {
   const {
     profissionalId,
     profissionalNome,
-    mensagem,
     nomeRemetente,
     emailRemetente,
-  } = req.body || {}
+    mensagem,
+  } = req.body;
 
-  if (!profissionalId || !mensagem) {
-    return res.status(400).json({
-      erro: 'profissionalId e mensagem são obrigatórios.',
-    })
+  if (!profissionalId || !mensagem || !mensagem.trim()) {
+    return res
+      .status(400)
+      .json({ erro: "profissionalId e mensagem são obrigatórios." });
   }
 
   const novaMensagem = {
-    id: mensagens.length + 1,
+    id: Date.now(),
     profissionalId,
     profissionalNome: profissionalNome || null,
-    mensagem,
     nomeRemetente: nomeRemetente || null,
     emailRemetente: emailRemetente || null,
-    dataEnvio: new Date().toISOString(),
+    mensagem: mensagem.trim(),
+    dataHora: new Date().toISOString(),
+  };
+
+  const lista = lerJSON(mensagensPath);
+  lista.push(novaMensagem);
+
+  if (!salvarJSON(mensagensPath, lista)) {
+    return res
+      .status(500)
+      .json({ erro: "Erro ao salvar mensagem no servidor." });
   }
 
-  mensagens.push(novaMensagem)
-  console.log('📨 Nova mensagem recebida:', novaMensagem)
+  return res.json({ sucesso: true, mensagem: "Mensagem enviada com sucesso." });
+});
 
-  return res.status(201).json({
-    ok: true,
-    mensagem: 'Mensagem enviada com sucesso para o backend.',
-  })
-})
+// ROTA 02 → RECOMENDAR PROFISSIONAL
 
-// ✅ Rota para envio de entrega de desafio (link + descrição)
-app.post('/api/entregas', (req, res) => {
-  const { desafioId, tituloDesafio, linkEntrega, descricaoEntrega, nomeUsuario } =
-    req.body || {}
+app.post("/api/recomendacoes", (req, res) => {
+  const {
+    profissionalId,
+    profissionalNome,
+    nomeRecomendante,
+    emailRecomendante,
+    motivo,
+    contexto,
+  } = req.body;
 
-  if (!desafioId || !linkEntrega) {
-    return res.status(400).json({
-      erro: 'desafioId e linkEntrega são obrigatórios.',
-    })
+  if (!profissionalId || !motivo || !motivo.trim()) {
+    return res
+      .status(400)
+      .json({ erro: "profissionalId e motivo são obrigatórios." });
   }
 
-  const novaEntrega = {
-    id: entregas.length + 1,
-    desafioId,
-    tituloDesafio: tituloDesafio || null,
-    linkEntrega,
-    descricaoEntrega: descricaoEntrega || null,
-    nomeUsuario: nomeUsuario || null,
-    dataEnvio: new Date().toISOString(),
+  const recomendacao = {
+    id: Date.now(),
+    profissionalId,
+    profissionalNome: profissionalNome || null,
+    nomeRecomendante: nomeRecomendante || null,
+    emailRecomendante: emailRecomendante || null,
+    motivo: motivo.trim(),
+    contexto: contexto ? contexto.trim() : null,
+    dataHora: new Date().toISOString(),
+  };
+
+  const lista = lerJSON(recomendacoesPath);
+  lista.push(recomendacao);
+
+  if (!salvarJSON(recomendacoesPath, lista)) {
+    return res
+      .status(500)
+      .json({ erro: "Erro ao salvar recomendação no servidor." });
   }
 
-  entregas.push(novaEntrega)
-  console.log('✅ Nova entrega de desafio recebida:', novaEntrega)
+  return res.json({
+    sucesso: true,
+    mensagem: "Recomendação registrada com sucesso.",
+  });
+});
 
-  // 💾 Salva imediatamente no arquivo JSON
-  salvarEntregasNoArquivo()
+// ROTA PARA TESTAR SE O BACKEND ESTÁ ONLINE
 
-  return res.status(201).json({
-    ok: true,
-    mensagem: 'Entrega registrada com sucesso no backend e salva em arquivo.',
-  })
-})
+app.get("/", (req, res) => {
+  res.send("Backend FuturosTalentos está online! ");
+});
 
-// Rota para listar entregas (pra você / professor ver tudo)
-app.get('/api/entregas', (req, res) => {
-  res.json(entregas)
-})
+// INICIAR SERVIDOR
 
 app.listen(PORT, () => {
-  console.log(`✅ Backend rodando em http://localhost:${PORT}`)
-  console.log(`📁 Arquivo de entregas: ${ENTREGAS_FILE}`)
-})
+  console.log(`Servidor rodando em http://localhost:${PORT}`);
+});
