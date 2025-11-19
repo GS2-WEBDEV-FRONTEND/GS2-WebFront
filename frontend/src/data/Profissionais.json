@@ -5,7 +5,7 @@
     "cargo": "Engenheira de Software",
     "cidade": "São Paulo/SP",
     "area": "Tecnologia",
-    "descricao": "Desenvolvedora full-stack focada em criar soluções escaláveis e orientadas a dados.",
+    "descricao": "Desenvolvedora full-stack focada em criar soluções escaláveis e orientadas a dados para ambientes de alta disponibilidade.",
     "habilidades": ["React", "Node.js", "TypeScript", "SQL", "Git", "Testes automatizados"],
     "formacao": "Bacharelado em Ciência da Computação - USP",
     "experiencias": [
@@ -23,12 +23,12 @@
     "cargo": "UX Designer",
     "cidade": "Curitiba/PR",
     "area": "Design",
-    "descricao": "Designer de experiência do usuário com foco em pesquisa e prototipação rápida.",
+    "descricao": "Designer de experiência do usuário com foco em pesquisa, jornadas digitais inclusivas e prototipação rápida.",
     "habilidades": ["Figma", "UX Research", "UI Design", "Prototipação", "Design Systems"],
-    "formacao": "Design Digital - UTFPR",
+    "formacao": "Bacharelado em Design Digital - UTFPR",
     "experiencias": [
       "2 anos como UX Designer na Innovix",
-      "Freelancer em projetos de apps mobile"
+      "Freelancer em projetos de apps mobile para saúde e educação"
     ],
     "contato": {
       "email": "joao.santos@example.com",
@@ -41,16 +41,1042 @@
     "cargo": "Data Analyst",
     "cidade": "Recife/PE",
     "area": "Dados",
-    "descricao": "Analista de dados apaixonada por transformar números em decisões de negócio.",
+    "descricao": "Analista de dados apaixonada por transformar números em decisões estratégicas para negócios em crescimento.",
     "habilidades": ["Python", "SQL", "Power BI", "Pandas", "Estatística"],
     "formacao": "Engenharia de Produção - UFPE",
     "experiencias": [
       "2 anos como Analista de Dados na FinData",
-      "Projeto de previsão de churn para e-commerce"
+      "Projeto de previsão de churn para e-commerce nacional"
     ],
     "contato": {
       "email": "mariana.costa@example.com",
       "linkedin": "https://linkedin.com/in/marianacosta"
     }
+  },
+  {
+    "id": 4,
+    "nome": "Lucas Almeida",
+    "cargo": "Desenvolvedor Back-end",
+    "cidade": "Belo Horizonte/MG",
+    "area": "Tecnologia",
+    "descricao": "Dev back-end focado em APIs REST, microsserviços e integrações com alta performance e segurança.",
+    "habilidades": ["Node.js", "Express", "PostgreSQL", "Docker", "JWT", "RabbitMQ"],
+    "formacao": "Sistemas de Informação - PUC Minas",
+    "experiencias": [
+      "2 anos como Back-end Developer na LogiTech",
+      "Responsável por integrações entre sistemas de logística e meios de pagamento"
+    ],
+    "contato": {
+      "email": "lucas.almeida@example.com",
+      "linkedin": "https://linkedin.com/in/lucasalmeida"
+    }
+  },
+  {
+    "id": 5,
+    "nome": "Gabriela Lima",
+    "cargo": "Product Manager",
+    "cidade": "São Paulo/SP",
+    "area": "Produto",
+    "descricao": "PM com foco em descoberta de produto, alinhamento com stakeholders e entrega de valor contínuo para o usuário final.",
+    "habilidades": ["Product Discovery", "Roadmapping", "OKRs", "Scrum", "User Interviews"],
+    "formacao": "Administração de Empresas - FGV",
+    "experiencias": [
+      "3 anos como Product Manager na EduTech",
+      "Liderança de squads multidisciplinares com foco em retenção de usuários"
+    ],
+    "contato": {
+      "email": "gabriela.lima@example.com",
+      "linkedin": "https://linkedin.com/in/gabrielalima"
+    }
+  },
+  {
+    "id": 6,
+    "nome": "Rafael Oliveira",
+    "cargo": "Cientista de Dados",
+    "cidade": "Porto Alegre/RS",
+    "area": "Dados",
+    "descricao": "Cientista de dados especializado em modelos preditivos, machine learning e storytelling com dados.",
+    "habilidades": ["Python", "Scikit-learn", "SQL", "Machine Learning", "Power BI", "Git"],
+    "formacao": "Mestrado em Ciência de Dados - UFRGS",
+    "experiencias": [
+      "2 anos como Data Scientist em uma fintech",
+      "Desenvolvimento de modelos de crédito e detecção de fraude"
+    ],
+    "contato": {
+      "email": "rafael.oliveira@example.com",
+      "linkedin": "https://linkedin.com/in/rafaeloliveira"
+    }
+  },
+  {
+    "id": 7,
+    "nome": "Bianca Rocha",
+    "cargo": "Analista de Marketing Digital",
+    "cidade": "Rio de Janeiro/RJ",
+    "area": "Marketing",
+    "descricao": "Profissional de marketing com foco em performance, tráfego pago e construção de funis de aquisição.",
+    "habilidades": ["Google Ads", "Meta Ads", "SEO", "CRM", "Copywriting"],
+    "formacao": "Publicidade e Propaganda - UFRJ",
+    "experiencias": [
+      "3 anos em agências digitais atendendo varejo e educação",
+      "Gestão de campanhas com orçamento mensal acima de R$ 100k"
+    ],
+    "contato": {
+      "email": "bianca.rocha@example.com",
+      "linkedin": "https://linkedin.com/in/biancarocha"
+    }
+  },
+  {
+    "id": 8,
+    "nome": "Bruno Ferreira",
+    "cargo": "DevOps Engineer",
+    "cidade": "Campinas/SP",
+    "area": "Tecnologia",
+    "descricao": "Engenheiro DevOps focado em automação, observabilidade e pipelines de CI/CD para times ágeis.",
+    "habilidades": ["Docker", "Kubernetes", "CI/CD", "AWS", "Linux", "Terraform"],
+    "formacao": "Engenharia de Computação - UNICAMP",
+    "experiencias": [
+      "3 anos como DevOps em empresa de SaaS B2B",
+      "Implementação de pipelines automatizados reduzindo tempo de deploy em 60%"
+    ],
+    "contato": {
+      "email": "bruno.ferreira@example.com",
+      "linkedin": "https://linkedin.com/in/brunoferreira"
+    }
+  },
+  {
+    "id": 9,
+    "nome": "Carolina Mendes",
+    "cargo": "Psicóloga Organizacional",
+    "cidade": "Salvador/BA",
+    "area": "Recursos Humanos",
+    "descricao": "Psicóloga organizacional focada em clima, engajamento e desenvolvimento de lideranças.",
+    "habilidades": ["Clima Organizacional", "Treinamentos", "Entrevistas por competência", "Feedback", "Mediação de conflitos"],
+    "formacao": "Psicologia - UFBA",
+    "experiencias": [
+      "4 anos em RH de empresa do varejo",
+      "Condução de programas de desenvolvimento de líderes de primeira gestão"
+    ],
+    "contato": {
+      "email": "carolina.mendes@example.com",
+      "linkedin": "https://linkedin.com/in/carolinamendes"
+    }
+  },
+  {
+    "id": 10,
+    "nome": "Diego Nascimento",
+    "cargo": "Engenheiro de QA",
+    "cidade": "Florianópolis/SC",
+    "area": "Tecnologia",
+    "descricao": "QA Engineer com foco em testes automatizados, garantia de qualidade e cultura de qualidade em squads ágeis.",
+    "habilidades": ["Cypress", "Jest", "Testes automatizados", "BDD", "Postman"],
+    "formacao": "Análise e Desenvolvimento de Sistemas - IFSC",
+    "experiencias": [
+      "2 anos como QA em startup de saúde",
+      "Criação de suíte de testes automatizados para aplicações web e mobile"
+    ],
+    "contato": {
+      "email": "diego.nascimento@example.com",
+      "linkedin": "https://linkedin.com/in/diegonascimento"
+    }
+  },
+  {
+    "id": 11,
+    "nome": "Fernanda Ribeiro",
+    "cargo": "UI Designer",
+    "cidade": "São Paulo/SP",
+    "area": "Design",
+    "descricao": "UI Designer focada em interfaces limpas, consistentes e acessíveis para produtos digitais.",
+    "habilidades": ["Figma", "Design System", "Acessibilidade", "Prototipação", "UI Kits"],
+    "formacao": "Design Gráfico - Senac",
+    "experiencias": [
+      "3 anos em produto digital no setor financeiro",
+      "Criação de design system utilizado por múltiplas squads"
+    ],
+    "contato": {
+      "email": "fernanda.ribeiro@example.com",
+      "linkedin": "https://linkedin.com/in/fernandaribeiro"
+    }
+  },
+  {
+    "id": 12,
+    "nome": "Gustavo Pereira",
+    "cargo": "Engenheiro de Dados",
+    "cidade": "Brasília/DF",
+    "area": "Dados",
+    "descricao": "Engenheiro de dados especializado em construção de pipelines, modelagem de dados e ambientes analíticos escaláveis.",
+    "habilidades": ["Python", "SQL", "Airflow", "Data Lakes", "ETL", "BigQuery"],
+    "formacao": "Engenharia de Software - UnB",
+    "experiencias": [
+      "2 anos como Data Engineer em govtech",
+      "Responsável por modernizar arquitetura de dados para analytics em tempo quase real"
+    ],
+    "contato": {
+      "email": "gustavo.pereira@example.com",
+      "linkedin": "https://linkedin.com/in/gustavopereira"
+    }
+  },
+  {
+    "id": 13,
+    "nome": "Juliana Martins",
+    "cargo": "Analista de Projetos",
+    "cidade": "São José dos Campos/SP",
+    "area": "Gestão de Projetos",
+    "descricao": "Analista de projetos com foco em planejamento, acompanhamento de cronogramas e comunicação com stakeholders.",
+    "habilidades": ["PMO", "Kanban", "Scrum", "MS Project", "Gestão de Riscos"],
+    "formacao": "Engenharia de Produção - UNESP",
+    "experiencias": [
+      "3 anos em PMO de indústria automotiva",
+      "Atuação em projetos de melhoria de processos e redução de custos"
+    ],
+    "contato": {
+      "email": "juliana.martins@example.com",
+      "linkedin": "https://linkedin.com/in/julianamartins"
+    }
+  },
+  {
+    "id": 14,
+    "nome": "Pedro Araújo",
+    "cargo": "Engenheiro de Machine Learning",
+    "cidade": "Recife/PE",
+    "area": "Dados",
+    "descricao": "Engenheiro de ML focado em modelos de recomendação, classificação e sistemas de previsão em larga escala.",
+    "habilidades": ["Python", "TensorFlow", "PyTorch", "MLOps", "APIs de Machine Learning"],
+    "formacao": "Ciência da Computação - UFRPE",
+    "experiencias": [
+      "2 anos desenvolvendo modelos preditivos para e-commerce",
+      "Implementação de pipelines de ML em produção com monitoramento contínuo"
+    ],
+    "contato": {
+      "email": "pedro.araujo@example.com",
+      "linkedin": "https://linkedin.com/in/pedroaraujo"
+    }
+  },
+  {
+    "id": 15,
+    "nome": "Larissa Souza",
+    "cargo": "Analista de Customer Success",
+    "cidade": "Fortaleza/CE",
+    "area": "Customer Success",
+    "descricao": "CS focada em construção de relacionamento, redução de churn e aumento de engajamento em produtos SaaS.",
+    "habilidades": ["Customer Success", "NPS", "Onboarding", "Relacionamento", "Comunicação"],
+    "formacao": "Administração - UECE",
+    "experiencias": [
+      "3 anos como CS em SaaS de RH",
+      "Criação de playbooks de onboarding e sucesso do cliente"
+    ],
+    "contato": {
+      "email": "larissa.souza@example.com",
+      "linkedin": "https://linkedin.com/in/larissasouza"
+    }
+  },
+  {
+    "id": 16,
+    "nome": "Marcelo Duarte",
+    "cargo": "Arquiteto de Software",
+    "cidade": "São Paulo/SP",
+    "area": "Tecnologia",
+    "descricao": "Arquiteto com foco em soluções escaláveis, microsserviços e integração de sistemas de alta complexidade.",
+    "habilidades": ["Java", "Spring Boot", "Arquitetura Limpa", "Docker", "Kubernetes", "RabbitMQ"],
+    "formacao": "Engenharia de Computação - Mackenzie",
+    "experiencias": [
+      "5 anos como arquiteto em empresa de pagamentos",
+      "Líder técnico em transformação de monolito para microsserviços"
+    ],
+    "contato": {
+      "email": "marcelo.duarte@example.com",
+      "linkedin": "https://linkedin.com/in/marceloduarte"
+    }
+  },
+  {
+    "id": 17,
+    "nome": "Tatiane Moraes",
+    "cargo": "Analista de Recursos Humanos",
+    "cidade": "Campinas/SP",
+    "area": "Recursos Humanos",
+    "descricao": "Especialista em recrutamento e seleção, clima organizacional e desenvolvimento de equipes.",
+    "habilidades": ["R&S", "Clima Organizacional", "Treinamento", "Onboarding", "Entrevistas por competência"],
+    "formacao": "Psicologia - PUC Campinas",
+    "experiencias": [
+      "3 anos de experiência em R&S para tecnologia",
+      "Implantação de programa de boas-vindas e ambientação"
+    ],
+    "contato": {
+      "email": "tatiane.moraes@example.com",
+      "linkedin": "https://linkedin.com/in/tatianemoraes"
+    }
+  },
+  {
+    "id": 18,
+    "nome": "Eduardo Silva",
+    "cargo": "Administrador de Banco de Dados",
+    "cidade": "São Paulo/SP",
+    "area": "Tecnologia",
+    "descricao": "DBA especializado em tuning, replicação e segurança de dados para ambientes de missão crítica.",
+    "habilidades": ["SQL Server", "Oracle", "MySQL", "Backup & Recovery", "Tuning"],
+    "formacao": "Tecnologia em Banco de Dados - Fatec",
+    "experiencias": [
+      "5 anos como DBA em bancos de médio porte",
+      "Responsável por ambientes 24x7 com alta disponibilidade"
+    ],
+    "contato": {
+      "email": "eduardo.silva@example.com",
+      "linkedin": "https://linkedin.com/in/eduardosilva"
+    }
+  },
+  {
+    "id": 19,
+    "nome": "Paula Andrade",
+    "cargo": "Scrum Master",
+    "cidade": "Niterói/RJ",
+    "area": "Agilidade",
+    "descricao": "Scrum Master com foco em facilitação, remoção de impedimentos e evolução da cultura ágil.",
+    "habilidades": ["Scrum", "Kanban", "Facilitação", "Comunicação", "Agile Coaching"],
+    "formacao": "Sistemas de Informação - Estácio",
+    "experiencias": [
+      "3 anos como Scrum Master em squads digitais",
+      "Condução de cerimônias ágeis e métricas de fluxo"
+    ],
+    "contato": {
+      "email": "paula.andrade@example.com",
+      "linkedin": "https://linkedin.com/in/paulaandrade"
+    }
+  },
+  {
+    "id": 20,
+    "nome": "Vinicius Correia",
+    "cargo": "Desenvolvedor Mobile",
+    "cidade": "Curitiba/PR",
+    "area": "Tecnologia",
+    "descricao": "Desenvolvedor mobile especializado em criação de apps performáticos para iOS e Android.",
+    "habilidades": ["Flutter", "Dart", "Firebase", "UX Mobile", "CI/CD mobile"],
+    "formacao": "Análise e Desenvolvimento de Sistemas - UTFPR",
+    "experiencias": [
+      "4 anos criando apps para e-commerce e saúde",
+      "Responsável por arquitetura mobile cross-platform"
+    ],
+    "contato": {
+      "email": "vinicius.correia@example.com",
+      "linkedin": "https://linkedin.com/in/viniciuscorreia"
+    }
+  },
+  {
+    "id": 21,
+    "nome": "Aline Figueiredo",
+    "cargo": "Especialista em SEO",
+    "cidade": "Rio de Janeiro/RJ",
+    "area": "Marketing",
+    "descricao": "Profissional de SEO focada em ranqueamento orgânico, otimização de conteúdo e análise de palavras-chave.",
+    "habilidades": ["SEO", "Google Analytics", "Keyword Research", "Copywriting", "WordPress"],
+    "formacao": "Publicidade e Propaganda - UERJ",
+    "experiencias": [
+      "3 anos em consultoria de SEO para marcas",
+      "Criação de estratégias de conteúdo focado em conversão"
+    ],
+    "contato": {
+      "email": "aline.figueiredo@example.com",
+      "linkedin": "https://linkedin.com/in/alinefigueiredo"
+    }
+  },
+  {
+    "id": 22,
+    "nome": "Henrique Monteiro",
+    "cargo": "Analista de BI",
+    "cidade": "Porto Alegre/RS",
+    "area": "Dados",
+    "descricao": "Analista de BI com foco em dashboards, indicadores estratégicos e tomada de decisão orientada por dados.",
+    "habilidades": ["Power BI", "DAX", "ETL", "SQL", "Storytelling"],
+    "formacao": "Administração - UFRGS",
+    "experiencias": [
+      "Criação de dashboards executivos para indústria",
+      "Implementação de governança de dados em BI"
+    ],
+    "contato": {
+      "email": "henrique.monteiro@example.com",
+      "linkedin": "https://linkedin.com/in/henriquemonteiro"
+    }
+  },
+  {
+    "id": 23,
+    "nome": "Sofia Cardoso",
+    "cargo": "Recrutadora Tech",
+    "cidade": "São Paulo/SP",
+    "area": "Recursos Humanos",
+    "descricao": "Recrutadora especialista em vagas de tecnologia, busca ativa e entrevistas por competência.",
+    "habilidades": ["Hunting", "Triagem Técnica", "Entrevistas", "LinkedIn Recruiter", "R&S"],
+    "formacao": "Recursos Humanos - SENAC",
+    "experiencias": [
+      "2 anos recrutando para squads ágeis",
+      "Experiência em tech stacks variadas"
+    ],
+    "contato": {
+      "email": "sofia.cardoso@example.com",
+      "linkedin": "https://linkedin.com/in/sofiacardoso"
+    }
+  },
+  {
+    "id": 24,
+    "nome": "Ricardo Menezes",
+    "cargo": "Administrador de Redes",
+    "cidade": "Fortaleza/CE",
+    "area": "Tecnologia",
+    "descricao": "Profissional especializado em infraestrutura, redes corporativas e segurança da informação.",
+    "habilidades": ["Redes", "Cisco", "Firewall", "VPN", "Linux"],
+    "formacao": "Redes de Computadores - IFCE",
+    "experiencias": [
+      "4 anos administrando redes em ambientes corporativos",
+      "Implementação de políticas de segurança e monitoramento"
+    ],
+    "contato": {
+      "email": "ricardo.menezes@example.com",
+      "linkedin": "https://linkedin.com/in/ricardomenezes"
+    }
+  },
+  {
+    "id": 25,
+    "nome": "Amanda Torres",
+    "cargo": "Analista de Suporte Técnico",
+    "cidade": "Manaus/AM",
+    "area": "Tecnologia",
+    "descricao": "Suporte técnico com experiência em atendimento, troubleshooting e documentação técnica.",
+    "habilidades": ["Helpdesk", "Windows", "Linux", "Atendimento", "Documentação"],
+    "formacao": "Tecnologia da Informação - UEA",
+    "experiencias": [
+      "Atuação em service desk nível 2",
+      "Suporte a usuários corporativos e infraestrutura"
+    ],
+    "contato": {
+      "email": "amanda.torres@example.com",
+      "linkedin": "https://linkedin.com/in/amandatorres"
+    }
+  },
+  {
+    "id": 26,
+    "nome": "Felipe Aragão",
+    "cargo": "Desenvolvedor Front-End",
+    "cidade": "Brasília/DF",
+    "area": "Tecnologia",
+    "descricao": "Front-end focado em interfaces velozes e acessíveis utilizando React e Tailwind CSS.",
+    "habilidades": ["React", "Tailwind", "JavaScript", "Vite", "Acessibilidade"],
+    "formacao": "Ciência da Computação - UnB",
+    "experiencias": [
+      "2 anos como front-end em startup govtech",
+      "Criação de interfaces para sistemas de grande escala"
+    ],
+    "contato": {
+      "email": "felipe.aragao@example.com",
+      "linkedin": "https://linkedin.com/in/felipearagao"
+    }
+  },
+  {
+    "id": 27,
+    "nome": "Débora Mattos",
+    "cargo": "Gerente de Projetos",
+    "cidade": "São Paulo/SP",
+    "area": "Gestão de Projetos",
+    "descricao": "GP experiente em planejamento, execução e entrega de projetos de TI em ambientes corporativos.",
+    "habilidades": ["PMBOK", "Scrum", "Gestão de Riscos", "Stakeholder Management", "Comunicação"],
+    "formacao": "Gestão de TI - FIAP",
+    "experiencias": [
+      "7 anos como gerente de projetos em TI",
+      "Entrega de projetos estratégicos multimilionários"
+    ],
+    "contato": {
+      "email": "debora.mattos@example.com",
+      "linkedin": "https://linkedin.com/in/deboramattos"
+    }
+  },
+  {
+    "id": 28,
+    "nome": "Leandro Teixeira",
+    "cargo": "Especialista em Segurança da Informação",
+    "cidade": "Joinville/SC",
+    "area": "Tecnologia",
+    "descricao": "Especialista em segurança com foco em proteção de dados, vulnerabilidades e arquitetura segura.",
+    "habilidades": ["Pentest", "OWASP", "SIEM", "Forense Digital", "Segurança de Redes"],
+    "formacao": "Segurança da Informação - SENAI",
+    "experiencias": [
+      "Responsável por governança e compliance em SI",
+      "Condução de testes de invasão para mercado financeiro"
+    ],
+    "contato": {
+      "email": "leandro.teixeira@example.com",
+      "linkedin": "https://linkedin.com/in/leandroteixeira"
+    }
+  },
+  {
+    "id": 29,
+    "nome": "Carla Antunes",
+    "cargo": "Especialista em Atendimento ao Cliente",
+    "cidade": "Recife/PE",
+    "area": "Customer Success",
+    "descricao": "Profissional voltada para atendimento humanizado, acompanhamento de jornada e retenção de clientes.",
+    "habilidades": ["Customer Care", "Relacionamento", "NPS", "Gestão de Reclamações", "CRM"],
+    "formacao": "Administração - UFPE",
+    "experiencias": [
+      "4 anos atendendo base de clientes no varejo",
+      "Treinamento de novos atendentes para suporte avançado"
+    ],
+    "contato": {
+      "email": "carla.antunes@example.com",
+      "linkedin": "https://linkedin.com/in/carlaantunes"
+    }
+  },
+  {
+    "id": 30,
+    "nome": "Alberto Vasconcelos",
+    "cargo": "Cientista de Machine Learning",
+    "cidade": "Salvador/BA",
+    "area": "Dados",
+    "descricao": "ML Scientist especializado em modelos de NLP, redes neurais profundas e inteligência artificial aplicada.",
+    "habilidades": ["Python", "NLP", "Deep Learning", "TensorFlow", "OpenAI APIs"],
+    "formacao": "Computação Aplicada - UFBA",
+    "experiencias": [
+      "Desenvolvimento de modelos de NLP para call centers",
+      "Pesquisa aplicada em reconhecimento de voz"
+    ],
+    "contato": {
+      "email": "alberto.vasconcelos@example.com",
+      "linkedin": "https://linkedin.com/in/albertovasconcelos"
+    }
+  },
+  {
+  "id": 31,
+  "nome": "Isabela Tavares",
+  "cargo": "Especialista em Transformação Digital",
+  "cidade": "São Paulo/SP",
+  "area": "Inovação",
+  "descricao": "Profissional focada em modernização de processos, adoção de novas tecnologias e implementação de cultura digital em empresas.",
+  "habilidades": ["Transformação Digital", "Mapeamento de Processos", "Agile", "Lean", "Design Thinking"],
+  "formacao": "Administração - FEA USP",
+  "experiencias": [
+    "3 anos liderando jornadas de transformação digital",
+    "Projetos de eficiência operacional com aumento de 40% na produtividade"
+  ],
+  "contato": {
+    "email": "isabela.tavares@example.com",
+    "linkedin": "https://linkedin.com/in/isabelatavares"
   }
+},
+{
+  "id": 32,
+  "nome": "Thiago Barros",
+  "cargo": "Engenheiro de Cloud",
+  "cidade": "Curitiba/PR",
+  "area": "Tecnologia",
+  "descricao": "Especialista em arquiteturas em nuvem com foco em escalabilidade, automação e segurança.",
+  "habilidades": ["AWS", "Azure", "Docker", "Kubernetes", "CI/CD"],
+  "formacao": "Engenharia de Software - PUC PR",
+  "experiencias": [
+    "5 anos como engenheiro de cloud",
+    "Responsável por migração de datacenter físico para AWS"
+  ],
+  "contato": {
+    "email": "thiago.barros@example.com",
+    "linkedin": "https://linkedin.com/in/thiagobarros"
+  }
+},
+{
+  "id": 33,
+  "nome": "Patrícia Nogueira",
+  "cargo": "Gestora de Produto Sênior",
+  "cidade": "São Paulo/SP",
+  "area": "Produto",
+  "descricao": "Líder de produto especializada em discovery contínuo, estratégia digital e métricas orientadas a valor.",
+  "habilidades": ["Produtividade", "OKRs", "Discovery", "UX", "Analytics"],
+  "formacao": "Engenharia de Produção - POLI USP",
+  "experiencias": [
+    "7 anos como PM e PM Lead",
+    "Gestão de portfólio de produtos com +2M usuários"
+  ],
+  "contato": {
+    "email": "patricia.nogueira@example.com",
+    "linkedin": "https://linkedin.com/in/patricianogueira"
+  }
+},
+{
+  "id": 34,
+  "nome": "André Falcão",
+  "cargo": "Designer de Interação",
+  "cidade": "Rio de Janeiro/RJ",
+  "area": "Design",
+  "descricao": "Designer focado em acessibilidade digital, usabilidade e criação de fluxos intuitivos.",
+  "habilidades": ["Figma", "Acessibilidade", "Arquitetura da Informação", "Design System", "Prototipagem"],
+  "formacao": "Design - UFRJ",
+  "experiencias": [
+    "4 anos criando interfaces inclusivas",
+    "Atuação em projetos de acessibilidade nível AA"
+  ],
+  "contato": {
+    "email": "andre.falcao@example.com",
+    "linkedin": "https://linkedin.com/in/andrefalcao"
+  }
+},
+{
+  "id": 35,
+  "nome": "Cecília Ramos",
+  "cargo": "Analista de Dados Jr.",
+  "cidade": "São Luís/MA",
+  "area": "Dados",
+  "descricao": "Profissional em início de carreira com foco em modelagem, visualização e exploração de dados.",
+  "habilidades": ["SQL", "Excel Avançado", "Power BI", "Python", "ETL"],
+  "formacao": "Estatística - UFMA",
+  "experiencias": [
+    "Estágio em equipe de BI corporativo",
+    "Projeto de análise exploratória para área de vendas"
+  ],
+  "contato": {
+    "email": "cecilia.ramos@example.com",
+    "linkedin": "https://linkedin.com/in/ceciliaramos"
+  }
+},
+{
+  "id": 36,
+  "nome": "Rodrigo Santana",
+  "cargo": "Analista de Infraestrutura",
+  "cidade": "Juiz de Fora/MG",
+  "area": "Tecnologia",
+  "descricao": "Profissional especializado em servidores, redes internas e políticas de segurança.",
+  "habilidades": ["Windows Server", "Linux", "Firewall", "VPN", "Monitoramento"],
+  "formacao": "Redes de Computadores - IF Sudeste MG",
+  "experiencias": [
+    "3 anos em equipes de infraestrutura corporativa",
+    "Responsável pelo ambiente on-premise e nuvem híbrida"
+  ],
+  "contato": {
+    "email": "rodrigo.santana@example.com",
+    "linkedin": "https://linkedin.com/in/rodrigosantana"
+  }
+},
+{
+  "id": 37,
+  "nome": "Helena Rocha",
+  "cargo": "Especialista em Customer Experience",
+  "cidade": "Natal/RN",
+  "area": "Customer Success",
+  "descricao": "CX Specialist com foco em mapeamento de jornadas, voz do cliente e indicadores de experiência.",
+  "habilidades": ["CX", "NPS", "Jornada do Cliente", "Service Design", "CRM"],
+  "formacao": "Publicidade e Propaganda - UFRN",
+  "experiencias": [
+    "3 anos em CX para empresas SaaS",
+    "Projetos de melhoria na jornada do cliente com redução de churn"
+  ],
+  "contato": {
+    "email": "helena.rocha@example.com",
+    "linkedin": "https://linkedin.com/in/helenaRocha"
+  }
+},
+{
+  "id": 38,
+  "nome": "Maurício César",
+  "cargo": "Tech Lead Front-end",
+  "cidade": "São José dos Campos/SP",
+  "area": "Tecnologia",
+  "descricao": "Tech Lead especializado em liderança técnica, arquitetura front-end e evolução de design systems.",
+  "habilidades": ["React", "Next.js", "TypeScript", "Tailwind", "Arquitetura Front-End"],
+  "formacao": "Engenharia de Software - UNIP",
+  "experiencias": [
+    "6 anos como desenvolvedor front-end",
+    "Liderança técnica em times digitais de alta escala"
+  ],
+  "contato": {
+    "email": "mauricio.cesar@example.com",
+    "linkedin": "https://linkedin.com/in/mauriciocesar"
+  }
+},
+{
+  "id": 39,
+  "nome": "Natalia Lopes",
+  "cargo": "Coordenadora de Marketing",
+  "cidade": "Fortaleza/CE",
+  "area": "Marketing",
+  "descricao": "Coordenadora especialista em campanhas omnichannel, branding e funis de conteúdo.",
+  "habilidades": ["Branding", "SEO", "Google Ads", "Copywriting", "Analytics"],
+  "formacao": "Marketing - Unifor",
+  "experiencias": [
+    "6 anos em marketing estratégico",
+    "Gestão de campanhas com aumento de tráfego em 300%"
+  ],
+  "contato": {
+    "email": "natalia.lopes@example.com",
+    "linkedin": "https://linkedin.com/in/natalialopes"
+  }
+},
+{
+  "id": 40,
+  "nome": "Roberto Cunha",
+  "cargo": "Analista Financeiro",
+  "cidade": "São Paulo/SP",
+  "area": "Finanças",
+  "descricao": "Profissional de finanças com experiência em fluxo de caixa, projeções e análises financeiras.",
+  "habilidades": ["Excel", "Power BI", "Modelagem Financeira", "Contabilidade", "KPIs"],
+  "formacao": "Ciências Contábeis - PUC SP",
+  "experiencias": [
+    "3 anos em finanças corporativas",
+    "Responsável por dashboards executivos financeiros"
+  ],
+  "contato": {
+    "email": "roberto.cunha@example.com",
+    "linkedin": "https://linkedin.com/in/robertocunha"
+  }
+},
+{
+  "id": 41,
+  "nome": "Letícia Prado",
+  "cargo": "Analista de Qualidade",
+  "cidade": "Curitiba/PR",
+  "area": "Qualidade",
+  "descricao": "Especialista em melhoria contínua, padronização de processos e certificações ISO.",
+  "habilidades": ["ISO 9001", "Lean", "Auditorias", "PDCA", "Documentação"],
+  "formacao": "Engenharia de Produção - UTFPR",
+  "experiencias": [
+    "4 anos em qualidade em indústria",
+    "Participação em auditorias e programas de melhoria contínua"
+  ],
+  "contato": {
+    "email": "leticia.prado@example.com",
+    "linkedin": "https://linkedin.com/in/leticiaprado"
+  }
+},
+{
+  "id": 42,
+  "nome": "Samuel Ribeiro",
+  "cargo": " Desenvolvedor Java",
+  "cidade": "Maringá/PR",
+  "area": "Tecnologia",
+  "descricao": "Back-end Java com foco em APIs robustas, integração com serviços e comunicação assíncrona.",
+  "habilidades": ["Java", "Spring", "Hibernate", "Mensageria", "PostgreSQL"],
+  "formacao": "Ciência da Computação - UEM",
+  "experiencias": [
+    "3 anos como dev Java em empresa de energia",
+    "Implementação de APIs REST de alta confiabilidade"
+  ],
+  "contato": {
+    "email": "samuel.ribeiro@example.com",
+    "linkedin": "https://linkedin.com/in/samuelribeiro"
+  }
+},
+{
+  "id": 43,
+  "nome": "Bruna Andrade",
+  "cargo": "Assistente de RH",
+  "cidade": "Brasília/DF",
+  "area": "Recursos Humanos",
+  "descricao": "Assistente de RH atuando em recrutamento, treinamento e apoio às rotinas administrativas.",
+  "habilidades": ["Adm. RH", "Entrevistas", "Treinamento", "Onboarding", "Sistemas de RH"],
+  "formacao": "Gestão de RH - UDF",
+  "experiencias": [
+    "2 anos como assistente de RH",
+    "Apoio em programas de desenvolvimento interno"
+  ],
+  "contato": {
+    "email": "bruna.andrade@example.com",
+    "linkedin": "https://linkedin.com/in/brunaandrade"
+  }
+},
+{
+  "id": 44,
+  "nome": "Victor Medeiros",
+  "cargo": "Desenvolvedor Full Stack",
+  "cidade": "Florianópolis/SC",
+  "area": "Tecnologia",
+  "descricao": "Full Stack focado em sistemas web modernos utilizando Node.js, React e bancos não relacionais.",
+  "habilidades": ["Node.js", "React", "MongoDB", "REST", "Docker"],
+  "formacao": "ADS - SENAI SC",
+  "experiencias": [
+    "4 anos como desenvolvedor em empresas de tecnologia",
+    "Criação de sistemas internos de alta performance"
+  ],
+  "contato": {
+    "email": "victor.medeiros@example.com",
+    "linkedin": "https://linkedin.com/in/victormedeiros"
+  }
+},
+{
+  "id": 45,
+  "nome": "Elisa Fernandes",
+  "cargo": "Analista de Suporte N2",
+  "cidade": "Vitória/ES",
+  "area": "Tecnologia",
+  "descricao": "Suporte técnico nível 2 especialista em troubleshooting avançado e monitoramento de sistemas.",
+  "habilidades": ["Linux", "Windows Server", "Tickets N2", "Monitoramento", "Documentação"],
+  "formacao": "Tecnologia da Informação - UVV",
+  "experiencias": [
+    "3 anos como suporte especializado para empresas SaaS",
+    "Documentação de incidentes e melhorias"
+  ],
+  "contato": {
+    "email": "elisa.fernandes@example.com",
+    "linkedin": "https://linkedin.com/in/elisafernandes"
+  }
+},
+{
+  "id": 46,
+  "nome": "Renata Azevedo",
+  "cargo": "Analista de Compliance",
+  "cidade": "São Paulo/SP",
+  "area": "Governança",
+  "descricao": "Profissional de compliance focada em políticas internas, aderência regulatória e mitigação de riscos.",
+  "habilidades": ["Compliance", "LGPD", "Mapeamento de Riscos", "Políticas Internas", "Auditorias"],
+  "formacao": "Direito - PUC SP",
+  "experiencias": [
+    "4 anos em áreas de compliance em serviços financeiros",
+    "Implantação de políticas alinhadas à LGPD"
+  ],
+  "contato": {
+    "email": "renata.azevedo@example.com",
+    "linkedin": "https://linkedin.com/in/renataazevedo"
+  }
+},
+{
+  "id": 47,
+  "nome": "Igor Campos",
+  "cargo": "Analista de Sistemas",
+  "cidade": "São Paulo/SP",
+  "area": "Tecnologia",
+  "descricao": "Analista de sistemas especializado em levantamento de requisitos, modelagem e integração entre áreas de negócio e TI.",
+  "habilidades": ["Levantamento de Requisitos", "UML", "Documentação", "SQL", "Integrações"],
+  "formacao": "Sistemas de Informação - FIAP",
+  "experiencias": [
+    "3 anos como analista em sistemas corporativos",
+    "Atuação em projetos de ERP e sistemas internos"
+  ],
+  "contato": {
+    "email": "igor.campos@example.com",
+    "linkedin": "https://linkedin.com/in/igorcampos"
+  }
+},
+{
+  "id": 48,
+  "nome": "Melissa Duarte",
+  "cargo": "Analista de Mídias Sociais",
+  "cidade": "Belo Horizonte/MG",
+  "area": "Marketing",
+  "descricao": "Responsável por estratégias de conteúdo, planejamento editorial e análise de performance em redes sociais.",
+  "habilidades": ["Social Media", "Planejamento de Conteúdo", "Copywriting", "Métricas", "Canva"],
+  "formacao": "Jornalismo - UFMG",
+  "experiencias": [
+    "3 anos em gestão de redes para marcas de varejo",
+    "Criação de campanhas com alto engajamento orgânico"
+  ],
+  "contato": {
+    "email": "melissa.duarte@example.com",
+    "linkedin": "https://linkedin.com/in/melissaduarte"
+  }
+},
+{
+  "id": 49,
+  "nome": "Caio Albuquerque",
+  "cargo": "Desenvolvedor Python",
+  "cidade": "Recife/PE",
+  "area": "Tecnologia",
+  "descricao": "Dev Python com foco em automação de processos, integrações e APIs para backend.",
+  "habilidades": ["Python", "Django", "Flask", "APIs REST", "Automação"],
+  "formacao": "Ciência da Computação - UFPE",
+  "experiencias": [
+    "2 anos desenvolvendo APIs para produtos digitais",
+    "Projetos de automação de rotinas de backoffice"
+  ],
+  "contato": {
+    "email": "caio.albuquerque@example.com",
+    "linkedin": "https://linkedin.com/in/caioalbuquerque"
+  }
+},
+{
+  "id": 50,
+  "nome": "Rafaela Pires",
+  "cargo": "People Partner",
+  "cidade": "São Paulo/SP",
+  "area": "Recursos Humanos",
+  "descricao": "Parceira de negócios de RH focada em desenvolvimento de líderes, clima e performance.",
+  "habilidades": ["Business Partner", "Clima", "Desenvolvimento de Liderança", "Feedback", "Cultura"],
+  "formacao": "Psicologia - Mackenzie",
+  "experiencias": [
+    "5 anos como BP em empresas de tecnologia",
+    "Condução de ciclos de performance e sucessão"
+  ],
+  "contato": {
+    "email": "rafaela.pires@example.com",
+    "linkedin": "https://linkedin.com/in/rafaelapires"
+  }
+},
+{
+  "id": 51,
+  "nome": "Daniel Vieira",
+  "cargo": "Engenheiro de Testes",
+  "cidade": "Porto Alegre/RS",
+  "area": "Tecnologia",
+  "descricao": "Engenheiro de testes especializado em automação, testes de performance e qualidade de software.",
+  "habilidades": ["Selenium", "Cypress", "Testes de Performance", "JUnit", "APIs"],
+  "formacao": "Engenharia de Computação - PUCRS",
+  "experiencias": [
+    "4 anos em times de QA ágeis",
+    "Criação de suites de testes automatizados para produtos web"
+  ],
+  "contato": {
+    "email": "daniel.vieira@example.com",
+    "linkedin": "https://linkedin.com/in/danielvieira"
+  }
+},
+{
+  "id": 52,
+  "nome": "Júlia Santana",
+  "cargo": "Cientista de Dados Jr.",
+  "cidade": "Campinas/SP",
+  "area": "Dados",
+  "descricao": "Cientista de dados em início de carreira, focada em modelos preditivos simples e análises exploratórias.",
+  "habilidades": ["Python", "Pandas", "Scikit-learn", "SQL", "Power BI"],
+  "formacao": "Matemática Aplicada - UNICAMP",
+  "experiencias": [
+    "Estágio em equipe de ciência de dados",
+    "Participação em projetos de previsão de demanda"
+  ],
+  "contato": {
+    "email": "julia.santana@example.com",
+    "linkedin": "https://linkedin.com/in/juliasantana"
+  }
+},
+{
+  "id": 53,
+  "nome": "Otávio Luz",
+  "cargo": "Coordenador de Suporte",
+  "cidade": "São Paulo/SP",
+  "area": "Operações",
+  "descricao": "Coordenador com foco em atendimento ao cliente, gestão de times de suporte e SLAs.",
+  "habilidades": ["Gestão de Equipes", "SLA", "Atendimento", "Service Desk", "Indicadores"],
+  "formacao": "Administração - UNIP",
+  "experiencias": [
+    "5 anos liderando equipes de suporte técnico",
+    "Implantação de indicadores de atendimento e satisfação"
+  ],
+  "contato": {
+    "email": "otavio.luz@example.com",
+    "linkedin": "https://linkedin.com/in/otavioluz"
+  }
+},
+{
+  "id": 54,
+  "nome": "Marina Beltrão",
+  "cargo": "UX Researcher",
+  "cidade": "Rio de Janeiro/RJ",
+  "area": "Design",
+  "descricao": "Pesquisadora de UX focada em entrevistas, testes de usabilidade e análise de comportamento de usuários.",
+  "habilidades": ["UX Research", "Entrevistas", "Testes de Usabilidade", "Personas", "Mapas de Jornada"],
+  "formacao": "Psicologia - UFRJ",
+  "experiencias": [
+    "3 anos em pesquisas para produtos digitais",
+    "Condução de estudos qualitativos e quantitativos"
+  ],
+  "contato": {
+    "email": "marina.beltrao@example.com",
+    "linkedin": "https://linkedin.com/in/marinabeltrao"
+  }
+},
+{
+  "id": 55,
+  "nome": "Alexandre Souza",
+  "cargo": "Engenheiro Front-End",
+  "cidade": "São Paulo/SP",
+  "area": "Tecnologia",
+  "descricao": "Front-end engineer focado em performance, acessibilidade e arquitetura de componentes reutilizáveis.",
+  "habilidades": ["React", "Next.js", "TypeScript", "Tailwind", "Performance Web"],
+  "formacao": "Engenharia de Computação - Insper",
+  "experiencias": [
+    "5 anos em produtos digitais B2C",
+    "Implementação de design systems e bibliotecas de componentes"
+  ],
+  "contato": {
+    "email": "alexandre.souza@example.com",
+    "linkedin": "https://linkedin.com/in/alexandresouza"
+  }
+},
+{
+  "id": 56,
+  "nome": "Priscila Oliveira",
+  "cargo": "Analista de Treinamento e Desenvolvimento",
+  "cidade": "Curitiba/PR",
+  "area": "Recursos Humanos",
+  "descricao": "Profissional focada em trilhas de desenvolvimento, treinamentos comportamentais e técnicas de facilitação.",
+  "habilidades": ["T&D", "Facilitação", "Design de Treinamento", "Avaliação de Desempenho", "Onboarding"],
+  "formacao": "Pedagogia - UFPR",
+  "experiencias": [
+    "4 anos em T&D em empresas de serviços",
+    "Criação de trilhas de desenvolvimento para novos líderes"
+  ],
+  "contato": {
+    "email": "priscila.oliveira@example.com",
+    "linkedin": "https://linkedin.com/in/priscilaoliveira"
+  }
+},
+{
+  "id": 57,
+  "nome": "Leonardo Braga",
+  "cargo": "Engenheiro de Dados Sênior",
+  "cidade": "São Paulo/SP",
+  "area": "Dados",
+  "descricao": "Engenheiro de dados sênior especialista em arquiteturas de dados modernas, pipelines e governança.",
+  "habilidades": ["Data Lakes", "Airflow", "Spark", "SQL", "Governança de Dados"],
+  "formacao": "Engenharia de Computação - POLI USP",
+  "experiencias": [
+    "8 anos em times de dados",
+    "Liderança técnica em projetos de modernização de dados"
+  ],
+  "contato": {
+    "email": "leonardo.braga@example.com",
+    "linkedin": "https://linkedin.com/in/leonardobraga"
+  }
+},
+{
+  "id": 58,
+  "nome": "Camila Rezende",
+  "cargo": "Analista de Operações",
+  "cidade": "Belo Horizonte/MG",
+  "area": "Operações",
+  "descricao": "Analista voltada para eficiência operacional, mapeamento de processos e melhoria contínua.",
+  "habilidades": ["Processos", "KPIs", "Excel Avançado", "Power BI", "Lean"],
+  "formacao": "Engenharia de Produção - UFMG",
+  "experiencias": [
+    "3 anos em operações em empresas de logística",
+    "Responsável por indicadores de nível de serviço"
+  ],
+  "contato": {
+    "email": "camila.rezende@example.com",
+    "linkedin": "https://linkedin.com/in/camilaresende"
+  }
+},
+{
+  "id": 59,
+  "nome": "Fábio Nascimento",
+  "cargo": "Administrador de Sistemas",
+  "cidade": "Florianópolis/SC",
+  "area": "Tecnologia",
+  "descricao": "Admin de sistemas especializado em ambientes Linux, automação e observabilidade.",
+  "habilidades": ["Linux", "Shell Script", "Ansible", "Monitoramento", "CI/CD"],
+  "formacao": "Sistemas de Informação - UFSC",
+  "experiencias": [
+    "6 anos como administrador de sistemas",
+    "Automação de rotinas e redução de incidentes críticos"
+  ],
+  "contato": {
+    "email": "fabio.nascimento@example.com",
+    "linkedin": "https://linkedin.com/in/fabionascimento"
+  }
+},
+{
+  "id": 60,
+  "nome": "Ana Beatriz Franco",
+  "cargo": "Product Designer",
+  "cidade": "São Paulo/SP",
+  "area": "Design",
+  "descricao": "Product Designer focada em soluções centradas no usuário, testes constantes e métricas de produto.",
+  "habilidades": ["UX", "UI", "Figma", "Design System", "Testes de Usabilidade"],
+  "formacao": "Design Digital - SENAC",
+  "experiencias": [
+    "5 anos em produtos digitais B2B e B2C",
+    "Atuação próxima a times de produto, dados e tecnologia"
+  ],
+  "contato": {
+    "email": "ana.bfranco@example.com",
+    "linkedin": "https://linkedin.com/in/anabeatrizfranco"
+  }
+}
 ]
