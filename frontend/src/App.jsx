@@ -1,19 +1,19 @@
-// src//App.jsx
-import { useEffect } from "react";
-import PerfilProfissional from "./components/PerfilProfissional";
+import { useEffect } from "react"
+import PerfilProfissional from "./components/PerfilProfissional"
+import Desafios from "./components/Desafios"
 
 function App() {
-
-  // Garante que o dark mode fica ativo sempre
   useEffect(() => {
-    document.documentElement.classList.add("dark");
-  }, []);
+    document.documentElement.classList.add("dark")
+  }, [])
+
+  const rota = window.location.pathname
 
   return (
-    <div className="min-h-screen bg-slate-900 text-slate-100 antialiased">
-      <PerfilProfissional />
+    <div>
+      {rota === "/desafios" ? <Desafios /> : <PerfilProfissional />}
     </div>
-  );
+  )
 }
 
-export default App;
+export default App

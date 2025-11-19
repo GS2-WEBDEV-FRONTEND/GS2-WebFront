@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2,
+    "titulo": "Desafio Técnico da Área",
+    "descricao": "Crie uma entrega relacionada à sua área de atuação: Dev -> API simples; Design -> tela no Figma; Dados -> análise exploratória; Marketing -> campanha de 3 posts.",
+    "nivel": "Intermediário",
+    "area": "Todos",
+    "entrega": "Criar um artefato simples que represente suas habilidades técnicas.",
+    "criterios": [
+      "Clareza da entrega",
+      "Organização",
+      "Demonstração prática da habilidade",
+      "Criatividade"
+    ]
+  },
+  {
+    "id": 6,
+    "titulo": "Desafio de Dados — Análise Exploratória",
+    "descricao": "Use qualquer dataset aberto para construir uma análise simples com gráficos, limpeza de dados e insights.",
+    "nivel": "Intermediário",
+    "area": "Dados / Tecnologia",
+    "entrega": "Notebook Python, relatório, ou dashboard em Power BI/Looker.",
+    "criterios": [
+      "Qualidade dos insights",
+      "Visualização dos dados",
+      "Tratamento adequado",
+      "Organização do notebook ou dashboard"
+    ]
+  },
+  {
+    "id": 10,
+    "titulo": "Desafio Full-Stack — API + Visualização",
+    "descricao": "Desenvolva uma API simples com 1 rota e crie uma interface que consuma essa API, exibindo seus dados.",
+    "nivel": "Avançado",
+    "area": "Tecnologia",
+    "entrega": "Backend simples (Node/Express) + tela ou componente consumindo a API.",
+    "criterios": [
+      "Funcionamento correto",
+      "Boas práticas",
+      "Organização",
+      "Interface funcional"
+    ]
+  }
+]

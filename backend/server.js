@@ -1,15 +1,55 @@
 // backend/server.js
 const express = require('express')
+const fs = require('fs')
+const path = require('path')
+
 const app = express()
 const PORT = 3000
 
-// Para armazenar mensagens em memória (apenas para fins de trabalho/prova)
-const mensagens = []
+// Caminho do arquivo de entregas
+const ENTREGAS_FILE = path.join(__dirname, 'entregas.json')
 
-// Habilita JSON no body
+// Armazenamento em memória
+const mensagens = []
+let entregas = []
+
+// Carregar entregas salvas do arquivo (se existir)
+function carregarEntregasDoArquivo() {
+  try {
+    if (fs.existsSync(ENTREGAS_FILE)) {
+      const conteudo = fs.readFileSync(ENTREGAS_FILE, 'utf8')
+      if (conteudo.trim().length > 0) {
+        entregas = JSON.parse(conteudo)
+      } else {
+        entregas = []
+      }
+      console.log(`📂 ${entregas.length} entregas carregadas de ${ENTREGAS_FILE}`)
+    } else {
+      entregas = []
+      console.log('📂 Nenhum arquivo de entregas encontrado, iniciando vazio.')
+    }
+  } catch (erro) {
+    console.error('❌ Erro ao carregar entregas do arquivo:', erro)
+    entregas = []
+  }
+}
+
+// Salvar entregas no arquivo
+function salvarEntregasNoArquivo() {
+  try {
+    fs.writeFileSync(ENTREGAS_FILE, JSON.stringify(entregas, null, 2), 'utf8')
+    console.log(`💾 Entregas salvas em ${ENTREGAS_FILE}`)
+  } catch (erro) {
+    console.error('❌ Erro ao salvar entregas no arquivo:', erro)
+  }
+}
+
+// Carrega entregas logo que o servidor sobe
+carregarEntregasDoArquivo()
+
 app.use(express.json())
 
-// CORS simples pra liberar o frontend (Vite em outra porta)
+// CORS
 app.use((req, res, next) => {
   res.header('Access-Control-Allow-Origin', '*')
   res.header(
@@ -23,12 +63,11 @@ app.use((req, res, next) => {
   next()
 })
 
-// Rota de teste
 app.get('/', (req, res) => {
   res.send('API GS2 WebFront backend está rodando 🚀')
 })
 
-// (Opcional) rota de exemplo de profissionais
+// Exemplo de profissionais (opcional)
 app.get('/api/profissionais', (req, res) => {
   const profissionais = [
     {
@@ -48,7 +87,7 @@ app.get('/api/profissionais', (req, res) => {
   res.json(profissionais)
 })
 
-//  NOVA ROTA: receber mensagem para profissional
+// ✅ Rota para envio de mensagem a profissional
 app.post('/api/mensagens', (req, res) => {
   const {
     profissionalId,
@@ -75,9 +114,7 @@ app.post('/api/mensagens', (req, res) => {
   }
 
   mensagens.push(novaMensagem)
-
-  // Só para visualização no terminal / comprovar que foi salvo
-  console.log(' Nova mensagem recebida:', novaMensagem)
+  console.log('📨 Nova mensagem recebida:', novaMensagem)
 
   return res.status(201).json({
     ok: true,
@@ -85,6 +122,45 @@ app.post('/api/mensagens', (req, res) => {
   })
 })
 
+// ✅ Rota para envio de entrega de desafio (link + descrição)
+app.post('/api/entregas', (req, res) => {
+  const { desafioId, tituloDesafio, linkEntrega, descricaoEntrega, nomeUsuario } =
+    req.body || {}
+
+  if (!desafioId || !linkEntrega) {
+    return res.status(400).json({
+      erro: 'desafioId e linkEntrega são obrigatórios.',
+    })
+  }
+
+  const novaEntrega = {
+    id: entregas.length + 1,
+    desafioId,
+    tituloDesafio: tituloDesafio || null,
+    linkEntrega,
+    descricaoEntrega: descricaoEntrega || null,
+    nomeUsuario: nomeUsuario || null,
+    dataEnvio: new Date().toISOString(),
+  }
+
+  entregas.push(novaEntrega)
+  console.log('✅ Nova entrega de desafio recebida:', novaEntrega)
+
+  // 💾 Salva imediatamente no arquivo JSON
+  salvarEntregasNoArquivo()
+
+  return res.status(201).json({
+    ok: true,
+    mensagem: 'Entrega registrada com sucesso no backend e salva em arquivo.',
+  })
+})
+
+// Rota para listar entregas (pra você / professor ver tudo)
+app.get('/api/entregas', (req, res) => {
+  res.json(entregas)
+})
+
 app.listen(PORT, () => {
-  console.log(` Backend rodando em http://localhost:${PORT}`)
+  console.log(`✅ Backend rodando em http://localhost:${PORT}`)
+  console.log(`📁 Arquivo de entregas: ${ENTREGAS_FILE}`)
 })

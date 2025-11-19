@@ -19,9 +19,9 @@ function Header() {
         </div>
 
         <button
-          type="button"
+            onClick={() => window.location.href = "/desafios"}
           className="inline-flex items-center gap-2 rounded-full bg-indigo-600 px-4 py-2 text-xs font-medium text-white shadow-md hover:bg-indigo-700 transition"
-        >
+>
           Ver desafios
         </button>
       </div>
