@@ -1,0 +1,4994 @@
+[
+  {
+    "id": 1,
+    "nome": "Ana Silva",
+    "cargo": "Engenheira de Software",
+    "cidade": "São Paulo/SP",
+    "area": "Tecnologia",
+    "descricao": "Desenvolvedora full-stack focada em criar soluções escaláveis e orientadas a dados para ambientes de alta disponibilidade.",
+    "habilidades": [
+      "React",
+      "Node.js",
+      "TypeScript",
+      "SQL",
+      "Git",
+      "Testes automatizados"
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação - USP",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Engenheira de Software",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "3 anos como Full Stack Developer na TechX"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Engenheira de Software",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "1 ano como estagiária em desenvolvimento na Globo"
+      }
+    ],
+    "contato": {
+      "email": "ana.silva@example.com",
+      "linkedin": "https://linkedin.com/in/anasilva"
+    },
+    "foto": "",
+    "resumo": "Desenvolvedora full-stack focada em criar soluções escaláveis e orientadas a dados para ambientes de alta disponibilidade.",
+    "localizacao": "São Paulo/SP",
+    "habilidadesTecnicas": [
+      "React",
+      "Node.js",
+      "TypeScript",
+      "SQL",
+      "Git",
+      "Testes automatizados"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resolução de problemas",
+      "Pensamento analítico"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Ana",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Ana aplicou suas principais competências na área de Tecnologia."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "Git & Versionamento"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "João Santos",
+    "cargo": "UX Designer",
+    "cidade": "Curitiba/PR",
+    "area": "Design",
+    "descricao": "Designer de experiência do usuário com foco em pesquisa, jornadas digitais inclusivas e prototipação rápida.",
+    "habilidades": [
+      "Figma",
+      "UX Research",
+      "UI Design",
+      "Prototipação",
+      "Design Systems"
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Design Digital - UTFPR",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "UX Designer",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "2 anos como UX Designer na Innovix"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "UX Designer",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Freelancer em projetos de apps mobile para saúde e educação"
+      }
+    ],
+    "contato": {
+      "email": "joao.santos@example.com",
+      "linkedin": "https://linkedin.com/in/joaosantos"
+    },
+    "foto": "",
+    "resumo": "Designer de experiência do usuário com foco em pesquisa, jornadas digitais inclusivas e prototipação rápida.",
+    "localizacao": "Curitiba/PR",
+    "habilidadesTecnicas": [
+      "Figma",
+      "UX Research",
+      "UI Design",
+      "Prototipação",
+      "Design Systems"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Comunicação visual",
+      "Colaboração"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de João",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que João aplicou suas principais competências na área de Design."
+      }
+    ],
+    "certificacoes": [
+      "UX Fundamentals",
+      "UI Design Essentials"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Design",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Mariana Costa",
+    "cargo": "Data Analyst",
+    "cidade": "Recife/PE",
+    "area": "Dados",
+    "descricao": "Analista de dados apaixonada por transformar números em decisões estratégicas para negócios em crescimento.",
+    "habilidades": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "Pandas",
+      "Estatística"
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Produção - UFPE",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Data Analyst",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "2 anos como Analista de Dados na FinData"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Data Analyst",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Projeto de previsão de churn para e-commerce nacional"
+      }
+    ],
+    "contato": {
+      "email": "mariana.costa@example.com",
+      "linkedin": "https://linkedin.com/in/marianacosta"
+    },
+    "foto": "",
+    "resumo": "Analista de dados apaixonada por transformar números em decisões estratégicas para negócios em crescimento.",
+    "localizacao": "Recife/PE",
+    "habilidadesTecnicas": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "Pandas",
+      "Estatística"
+    ],
+    "softSkills": [
+      "Raciocínio lógico",
+      "Curiosidade",
+      "Comunicação clara"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Mariana",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Mariana aplicou suas principais competências na área de Dados."
+      }
+    ],
+    "certificacoes": [
+      "Fundamentos de Análise de Dados",
+      "Introdução a Machine Learning"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Dados",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Lucas Almeida",
+    "cargo": "Desenvolvedor Back-end",
+    "cidade": "Belo Horizonte/MG",
+    "area": "Tecnologia",
+    "descricao": "Dev back-end focado em APIs REST, microsserviços e integrações com alta performance e segurança.",
+    "habilidades": [
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "Docker",
+      "JWT",
+      "RabbitMQ"
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação - PUC Minas",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Desenvolvedor Back-end",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "2 anos como Back-end Developer na LogiTech"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Desenvolvedor Back-end",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por integrações entre sistemas de logística e meios de pagamento"
+      }
+    ],
+    "contato": {
+      "email": "lucas.almeida@example.com",
+      "linkedin": "https://linkedin.com/in/lucasalmeida"
+    },
+    "foto": "",
+    "resumo": "Dev back-end focado em APIs REST, microsserviços e integrações com alta performance e segurança.",
+    "localizacao": "Belo Horizonte/MG",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "Docker",
+      "JWT",
+      "RabbitMQ"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resolução de problemas",
+      "Pensamento analítico"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Lucas",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Lucas aplicou suas principais competências na área de Tecnologia."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "Git & Versionamento"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Gabriela Lima",
+    "cargo": "Product Manager",
+    "cidade": "São Paulo/SP",
+    "area": "Produto",
+    "descricao": "PM com foco em descoberta de produto, alinhamento com stakeholders e entrega de valor contínuo para o usuário final.",
+    "habilidades": [
+      "Product Discovery",
+      "Roadmapping",
+      "OKRs",
+      "Scrum",
+      "User Interviews"
+    ],
+    "formacao": [
+      {
+        "curso": "Administração de Empresas - FGV",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Product Manager",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "3 anos como Product Manager na EduTech"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Product Manager",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Liderança de squads multidisciplinares com foco em retenção de usuários"
+      }
+    ],
+    "contato": {
+      "email": "gabriela.lima@example.com",
+      "linkedin": "https://linkedin.com/in/gabrielalima"
+    },
+    "foto": "",
+    "resumo": "PM com foco em descoberta de produto, alinhamento com stakeholders e entrega de valor contínuo para o usuário final.",
+    "localizacao": "São Paulo/SP",
+    "habilidadesTecnicas": [
+      "Product Discovery",
+      "Roadmapping",
+      "OKRs",
+      "Scrum",
+      "User Interviews"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Organização",
+      "Adaptabilidade"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Gabriela",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Gabriela aplicou suas principais competências na área de Produto."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional na área",
+      "Workshop de Soft Skills"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Produto",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Rafael Oliveira",
+    "cargo": "Cientista de Dados",
+    "cidade": "Porto Alegre/RS",
+    "area": "Dados",
+    "descricao": "Cientista de dados especializado em modelos preditivos, machine learning e storytelling com dados.",
+    "habilidades": [
+      "Python",
+      "Scikit-learn",
+      "SQL",
+      "Machine Learning",
+      "Power BI",
+      "Git"
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Ciência de Dados - UFRGS",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Cientista de Dados",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "2 anos como Data Scientist em uma fintech"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Cientista de Dados",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento de modelos de crédito e detecção de fraude"
+      }
+    ],
+    "contato": {
+      "email": "rafael.oliveira@example.com",
+      "linkedin": "https://linkedin.com/in/rafaeloliveira"
+    },
+    "foto": "",
+    "resumo": "Cientista de dados especializado em modelos preditivos, machine learning e storytelling com dados.",
+    "localizacao": "Porto Alegre/RS",
+    "habilidadesTecnicas": [
+      "Python",
+      "Scikit-learn",
+      "SQL",
+      "Machine Learning",
+      "Power BI",
+      "Git"
+    ],
+    "softSkills": [
+      "Raciocínio lógico",
+      "Curiosidade",
+      "Comunicação clara"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Rafael",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Rafael aplicou suas principais competências na área de Dados."
+      }
+    ],
+    "certificacoes": [
+      "Fundamentos de Análise de Dados",
+      "Introdução a Machine Learning"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Dados",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Bianca Rocha",
+    "cargo": "Analista de Marketing Digital",
+    "cidade": "Rio de Janeiro/RJ",
+    "area": "Marketing",
+    "descricao": "Profissional de marketing com foco em performance, tráfego pago e construção de funis de aquisição.",
+    "habilidades": [
+      "Google Ads",
+      "Meta Ads",
+      "SEO",
+      "CRM",
+      "Copywriting"
+    ],
+    "formacao": [
+      {
+        "curso": "Publicidade e Propaganda - UFRJ",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Analista de Marketing Digital",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "3 anos em agências digitais atendendo varejo e educação"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Analista de Marketing Digital",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Gestão de campanhas com orçamento mensal acima de R$ 100k"
+      }
+    ],
+    "contato": {
+      "email": "bianca.rocha@example.com",
+      "linkedin": "https://linkedin.com/in/biancarocha"
+    },
+    "foto": "",
+    "resumo": "Profissional de marketing com foco em performance, tráfego pago e construção de funis de aquisição.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "habilidadesTecnicas": [
+      "Google Ads",
+      "Meta Ads",
+      "SEO",
+      "CRM",
+      "Copywriting"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Comunicação",
+      "Organização"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Bianca",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Bianca aplicou suas principais competências na área de Marketing."
+      }
+    ],
+    "certificacoes": [
+      "Marketing Digital",
+      "Google Analytics Basics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Marketing",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Bruno Ferreira",
+    "cargo": "DevOps Engineer",
+    "cidade": "Campinas/SP",
+    "area": "Tecnologia",
+    "descricao": "Engenheiro DevOps focado em automação, observabilidade e pipelines de CI/CD para times ágeis.",
+    "habilidades": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "AWS",
+      "Linux",
+      "Terraform"
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Computação - UNICAMP",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "DevOps Engineer",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "3 anos como DevOps em empresa de SaaS B2B"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "DevOps Engineer",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Implementação de pipelines automatizados reduzindo tempo de deploy em 60%"
+      }
+    ],
+    "contato": {
+      "email": "bruno.ferreira@example.com",
+      "linkedin": "https://linkedin.com/in/brunoferreira"
+    },
+    "foto": "",
+    "resumo": "Engenheiro DevOps focado em automação, observabilidade e pipelines de CI/CD para times ágeis.",
+    "localizacao": "Campinas/SP",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "AWS",
+      "Linux",
+      "Terraform"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resolução de problemas",
+      "Pensamento analítico"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Bruno",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Bruno aplicou suas principais competências na área de Tecnologia."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "Git & Versionamento"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Carolina Mendes",
+    "cargo": "Psicóloga Organizacional",
+    "cidade": "Salvador/BA",
+    "area": "Recursos Humanos",
+    "descricao": "Psicóloga organizacional focada em clima, engajamento e desenvolvimento de lideranças.",
+    "habilidades": [
+      "Clima Organizacional",
+      "Treinamentos",
+      "Entrevistas por competência",
+      "Feedback",
+      "Mediação de conflitos"
+    ],
+    "formacao": [
+      {
+        "curso": "Psicologia - UFBA",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Psicóloga Organizacional",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "4 anos em RH de empresa do varejo"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Psicóloga Organizacional",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Condução de programas de desenvolvimento de líderes de primeira gestão"
+      }
+    ],
+    "contato": {
+      "email": "carolina.mendes@example.com",
+      "linkedin": "https://linkedin.com/in/carolinamendes"
+    },
+    "foto": "",
+    "resumo": "Psicóloga organizacional focada em clima, engajamento e desenvolvimento de lideranças.",
+    "localizacao": "Salvador/BA",
+    "habilidadesTecnicas": [
+      "Clima Organizacional",
+      "Treinamentos",
+      "Entrevistas por competência",
+      "Feedback",
+      "Mediação de conflitos"
+    ],
+    "softSkills": [
+      "Escuta ativa",
+      "Negociação",
+      "Inteligência emocional"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Carolina",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Carolina aplicou suas principais competências na área de Recursos Humanos."
+      }
+    ],
+    "certificacoes": [
+      "Legislação Trabalhista Básica",
+      "Entrevistas por Competência"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Recursos Humanos",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Diego Nascimento",
+    "cargo": "Engenheiro de QA",
+    "cidade": "Florianópolis/SC",
+    "area": "Tecnologia",
+    "descricao": "QA Engineer com foco em testes automatizados, garantia de qualidade e cultura de qualidade em squads ágeis.",
+    "habilidades": [
+      "Cypress",
+      "Jest",
+      "Testes automatizados",
+      "BDD",
+      "Postman"
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas - IFSC",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Engenheiro de QA",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "2 anos como QA em startup de saúde"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Engenheiro de QA",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Criação de suíte de testes automatizados para aplicações web e mobile"
+      }
+    ],
+    "contato": {
+      "email": "diego.nascimento@example.com",
+      "linkedin": "https://linkedin.com/in/diegonascimento"
+    },
+    "foto": "",
+    "resumo": "QA Engineer com foco em testes automatizados, garantia de qualidade e cultura de qualidade em squads ágeis.",
+    "localizacao": "Florianópolis/SC",
+    "habilidadesTecnicas": [
+      "Cypress",
+      "Jest",
+      "Testes automatizados",
+      "BDD",
+      "Postman"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resolução de problemas",
+      "Pensamento analítico"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Diego",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Diego aplicou suas principais competências na área de Tecnologia."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "Git & Versionamento"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "Fernanda Ribeiro",
+    "cargo": "UI Designer",
+    "cidade": "São Paulo/SP",
+    "area": "Design",
+    "descricao": "UI Designer focada em interfaces limpas, consistentes e acessíveis para produtos digitais.",
+    "habilidades": [
+      "Figma",
+      "Design System",
+      "Acessibilidade",
+      "Prototipação",
+      "UI Kits"
+    ],
+    "formacao": [
+      {
+        "curso": "Design Gráfico - Senac",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "UI Designer",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "3 anos em produto digital no setor financeiro"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "UI Designer",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Criação de design system utilizado por múltiplas squads"
+      }
+    ],
+    "contato": {
+      "email": "fernanda.ribeiro@example.com",
+      "linkedin": "https://linkedin.com/in/fernandaribeiro"
+    },
+    "foto": "",
+    "resumo": "UI Designer focada em interfaces limpas, consistentes e acessíveis para produtos digitais.",
+    "localizacao": "São Paulo/SP",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Design System",
+      "Acessibilidade",
+      "Prototipação",
+      "UI Kits"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Comunicação visual",
+      "Colaboração"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Fernanda",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Fernanda aplicou suas principais competências na área de Design."
+      }
+    ],
+    "certificacoes": [
+      "UX Fundamentals",
+      "UI Design Essentials"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Design",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "Gustavo Pereira",
+    "cargo": "Engenheiro de Dados",
+    "cidade": "Brasília/DF",
+    "area": "Dados",
+    "descricao": "Engenheiro de dados especializado em construção de pipelines, modelagem de dados e ambientes analíticos escaláveis.",
+    "habilidades": [
+      "Python",
+      "SQL",
+      "Airflow",
+      "Data Lakes",
+      "ETL",
+      "BigQuery"
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software - UnB",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Engenheiro de Dados",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "2 anos como Data Engineer em govtech"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Engenheiro de Dados",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por modernizar arquitetura de dados para analytics em tempo quase real"
+      }
+    ],
+    "contato": {
+      "email": "gustavo.pereira@example.com",
+      "linkedin": "https://linkedin.com/in/gustavopereira"
+    },
+    "foto": "",
+    "resumo": "Engenheiro de dados especializado em construção de pipelines, modelagem de dados e ambientes analíticos escaláveis.",
+    "localizacao": "Brasília/DF",
+    "habilidadesTecnicas": [
+      "Python",
+      "SQL",
+      "Airflow",
+      "Data Lakes",
+      "ETL",
+      "BigQuery"
+    ],
+    "softSkills": [
+      "Raciocínio lógico",
+      "Curiosidade",
+      "Comunicação clara"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Gustavo",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Gustavo aplicou suas principais competências na área de Dados."
+      }
+    ],
+    "certificacoes": [
+      "Fundamentos de Análise de Dados",
+      "Introdução a Machine Learning"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Dados",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 13,
+    "nome": "Juliana Martins",
+    "cargo": "Analista de Projetos",
+    "cidade": "São José dos Campos/SP",
+    "area": "Gestão de Projetos",
+    "descricao": "Analista de projetos com foco em planejamento, acompanhamento de cronogramas e comunicação com stakeholders.",
+    "habilidades": [
+      "PMO",
+      "Kanban",
+      "Scrum",
+      "MS Project",
+      "Gestão de Riscos"
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Produção - UNESP",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Analista de Projetos",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "3 anos em PMO de indústria automotiva"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Analista de Projetos",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de melhoria de processos e redução de custos"
+      }
+    ],
+    "contato": {
+      "email": "juliana.martins@example.com",
+      "linkedin": "https://linkedin.com/in/julianamartins"
+    },
+    "foto": "",
+    "resumo": "Analista de projetos com foco em planejamento, acompanhamento de cronogramas e comunicação com stakeholders.",
+    "localizacao": "São José dos Campos/SP",
+    "habilidadesTecnicas": [
+      "PMO",
+      "Kanban",
+      "Scrum",
+      "MS Project",
+      "Gestão de Riscos"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Organização",
+      "Adaptabilidade"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Juliana",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Juliana aplicou suas principais competências na área de Gestão de Projetos."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional na área",
+      "Workshop de Soft Skills"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Gestão de Projetos",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "Pedro Araújo",
+    "cargo": "Engenheiro de Machine Learning",
+    "cidade": "Recife/PE",
+    "area": "Dados",
+    "descricao": "Engenheiro de ML focado em modelos de recomendação, classificação e sistemas de previsão em larga escala.",
+    "habilidades": [
+      "Python",
+      "TensorFlow",
+      "PyTorch",
+      "MLOps",
+      "APIs de Machine Learning"
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação - UFRPE",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Engenheiro de Machine Learning",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "2 anos desenvolvendo modelos preditivos para e-commerce"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Engenheiro de Machine Learning",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Implementação de pipelines de ML em produção com monitoramento contínuo"
+      }
+    ],
+    "contato": {
+      "email": "pedro.araujo@example.com",
+      "linkedin": "https://linkedin.com/in/pedroaraujo"
+    },
+    "foto": "",
+    "resumo": "Engenheiro de ML focado em modelos de recomendação, classificação e sistemas de previsão em larga escala.",
+    "localizacao": "Recife/PE",
+    "habilidadesTecnicas": [
+      "Python",
+      "TensorFlow",
+      "PyTorch",
+      "MLOps",
+      "APIs de Machine Learning"
+    ],
+    "softSkills": [
+      "Raciocínio lógico",
+      "Curiosidade",
+      "Comunicação clara"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Pedro",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Pedro aplicou suas principais competências na área de Dados."
+      }
+    ],
+    "certificacoes": [
+      "Fundamentos de Análise de Dados",
+      "Introdução a Machine Learning"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Dados",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 15,
+    "nome": "Larissa Souza",
+    "cargo": "Analista de Customer Success",
+    "cidade": "Fortaleza/CE",
+    "area": "Customer Success",
+    "descricao": "CS focada em construção de relacionamento, redução de churn e aumento de engajamento em produtos SaaS.",
+    "habilidades": [
+      "Customer Success",
+      "NPS",
+      "Onboarding",
+      "Relacionamento",
+      "Comunicação"
+    ],
+    "formacao": [
+      {
+        "curso": "Administração - UECE",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Analista de Customer Success",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "3 anos como CS em SaaS de RH"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Analista de Customer Success",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Criação de playbooks de onboarding e sucesso do cliente"
+      }
+    ],
+    "contato": {
+      "email": "larissa.souza@example.com",
+      "linkedin": "https://linkedin.com/in/larissasouza"
+    },
+    "foto": "",
+    "resumo": "CS focada em construção de relacionamento, redução de churn e aumento de engajamento em produtos SaaS.",
+    "localizacao": "Fortaleza/CE",
+    "habilidadesTecnicas": [
+      "Customer Success",
+      "NPS",
+      "Onboarding",
+      "Relacionamento",
+      "Comunicação"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Relacionamento",
+      "Foco no cliente"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Larissa",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Larissa aplicou suas principais competências na área de Customer Success."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional na área",
+      "Workshop de Soft Skills"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Customer Success",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 16,
+    "nome": "Marcelo Duarte",
+    "cargo": "Arquiteto de Software",
+    "cidade": "São Paulo/SP",
+    "area": "Tecnologia",
+    "descricao": "Arquiteto com foco em soluções escaláveis, microsserviços e integração de sistemas de alta complexidade.",
+    "habilidades": [
+      "Java",
+      "Spring Boot",
+      "Arquitetura Limpa",
+      "Docker",
+      "Kubernetes",
+      "RabbitMQ"
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Computação - Mackenzie",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Arquiteto de Software",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "5 anos como arquiteto em empresa de pagamentos"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Arquiteto de Software",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Líder técnico em transformação de monolito para microsserviços"
+      }
+    ],
+    "contato": {
+      "email": "marcelo.duarte@example.com",
+      "linkedin": "https://linkedin.com/in/marceloduarte"
+    },
+    "foto": "",
+    "resumo": "Arquiteto com foco em soluções escaláveis, microsserviços e integração de sistemas de alta complexidade.",
+    "localizacao": "São Paulo/SP",
+    "habilidadesTecnicas": [
+      "Java",
+      "Spring Boot",
+      "Arquitetura Limpa",
+      "Docker",
+      "Kubernetes",
+      "RabbitMQ"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resolução de problemas",
+      "Pensamento analítico"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Marcelo",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Marcelo aplicou suas principais competências na área de Tecnologia."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "Git & Versionamento"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 17,
+    "nome": "Tatiane Moraes",
+    "cargo": "Analista de Recursos Humanos",
+    "cidade": "Campinas/SP",
+    "area": "Recursos Humanos",
+    "descricao": "Especialista em recrutamento e seleção, clima organizacional e desenvolvimento de equipes.",
+    "habilidades": [
+      "R&S",
+      "Clima Organizacional",
+      "Treinamento",
+      "Onboarding",
+      "Entrevistas por competência"
+    ],
+    "formacao": [
+      {
+        "curso": "Psicologia - PUC Campinas",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Analista de Recursos Humanos",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "3 anos de experiência em R&S para tecnologia"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Analista de Recursos Humanos",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Implantação de programa de boas-vindas e ambientação"
+      }
+    ],
+    "contato": {
+      "email": "tatiane.moraes@example.com",
+      "linkedin": "https://linkedin.com/in/tatianemoraes"
+    },
+    "foto": "",
+    "resumo": "Especialista em recrutamento e seleção, clima organizacional e desenvolvimento de equipes.",
+    "localizacao": "Campinas/SP",
+    "habilidadesTecnicas": [
+      "R&S",
+      "Clima Organizacional",
+      "Treinamento",
+      "Onboarding",
+      "Entrevistas por competência"
+    ],
+    "softSkills": [
+      "Escuta ativa",
+      "Negociação",
+      "Inteligência emocional"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Tatiane",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Tatiane aplicou suas principais competências na área de Recursos Humanos."
+      }
+    ],
+    "certificacoes": [
+      "Legislação Trabalhista Básica",
+      "Entrevistas por Competência"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Recursos Humanos",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 18,
+    "nome": "Eduardo Silva",
+    "cargo": "Administrador de Banco de Dados",
+    "cidade": "São Paulo/SP",
+    "area": "Tecnologia",
+    "descricao": "DBA especializado em tuning, replicação e segurança de dados para ambientes de missão crítica.",
+    "habilidades": [
+      "SQL Server",
+      "Oracle",
+      "MySQL",
+      "Backup & Recovery",
+      "Tuning"
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia em Banco de Dados - Fatec",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Administrador de Banco de Dados",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "5 anos como DBA em bancos de médio porte"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Administrador de Banco de Dados",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por ambientes 24x7 com alta disponibilidade"
+      }
+    ],
+    "contato": {
+      "email": "eduardo.silva@example.com",
+      "linkedin": "https://linkedin.com/in/eduardosilva"
+    },
+    "foto": "",
+    "resumo": "DBA especializado em tuning, replicação e segurança de dados para ambientes de missão crítica.",
+    "localizacao": "São Paulo/SP",
+    "habilidadesTecnicas": [
+      "SQL Server",
+      "Oracle",
+      "MySQL",
+      "Backup & Recovery",
+      "Tuning"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resolução de problemas",
+      "Pensamento analítico"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Eduardo",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Eduardo aplicou suas principais competências na área de Tecnologia."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "Git & Versionamento"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 19,
+    "nome": "Paula Andrade",
+    "cargo": "Scrum Master",
+    "cidade": "Niterói/RJ",
+    "area": "Agilidade",
+    "descricao": "Scrum Master com foco em facilitação, remoção de impedimentos e evolução da cultura ágil.",
+    "habilidades": [
+      "Scrum",
+      "Kanban",
+      "Facilitação",
+      "Comunicação",
+      "Agile Coaching"
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação - Estácio",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Scrum Master",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "3 anos como Scrum Master em squads digitais"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Scrum Master",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Condução de cerimônias ágeis e métricas de fluxo"
+      }
+    ],
+    "contato": {
+      "email": "paula.andrade@example.com",
+      "linkedin": "https://linkedin.com/in/paulaandrade"
+    },
+    "foto": "",
+    "resumo": "Scrum Master com foco em facilitação, remoção de impedimentos e evolução da cultura ágil.",
+    "localizacao": "Niterói/RJ",
+    "habilidadesTecnicas": [
+      "Scrum",
+      "Kanban",
+      "Facilitação",
+      "Comunicação",
+      "Agile Coaching"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Organização",
+      "Adaptabilidade"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Paula",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Paula aplicou suas principais competências na área de Agilidade."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional na área",
+      "Workshop de Soft Skills"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Agilidade",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 20,
+    "nome": "Vinicius Correia",
+    "cargo": "Desenvolvedor Mobile",
+    "cidade": "Curitiba/PR",
+    "area": "Tecnologia",
+    "descricao": "Desenvolvedor mobile especializado em criação de apps performáticos para iOS e Android.",
+    "habilidades": [
+      "Flutter",
+      "Dart",
+      "Firebase",
+      "UX Mobile",
+      "CI/CD mobile"
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas - UTFPR",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Desenvolvedor Mobile",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "4 anos criando apps para e-commerce e saúde"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Desenvolvedor Mobile",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por arquitetura mobile cross-platform"
+      }
+    ],
+    "contato": {
+      "email": "vinicius.correia@example.com",
+      "linkedin": "https://linkedin.com/in/viniciuscorreia"
+    },
+    "foto": "",
+    "resumo": "Desenvolvedor mobile especializado em criação de apps performáticos para iOS e Android.",
+    "localizacao": "Curitiba/PR",
+    "habilidadesTecnicas": [
+      "Flutter",
+      "Dart",
+      "Firebase",
+      "UX Mobile",
+      "CI/CD mobile"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resolução de problemas",
+      "Pensamento analítico"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Vinicius",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Vinicius aplicou suas principais competências na área de Tecnologia."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "Git & Versionamento"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 21,
+    "nome": "Aline Figueiredo",
+    "cargo": "Especialista em SEO",
+    "cidade": "Rio de Janeiro/RJ",
+    "area": "Marketing",
+    "descricao": "Profissional de SEO focada em ranqueamento orgânico, otimização de conteúdo e análise de palavras-chave.",
+    "habilidades": [
+      "SEO",
+      "Google Analytics",
+      "Keyword Research",
+      "Copywriting",
+      "WordPress"
+    ],
+    "formacao": [
+      {
+        "curso": "Publicidade e Propaganda - UERJ",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Especialista em SEO",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "3 anos em consultoria de SEO para marcas"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Especialista em SEO",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Criação de estratégias de conteúdo focado em conversão"
+      }
+    ],
+    "contato": {
+      "email": "aline.figueiredo@example.com",
+      "linkedin": "https://linkedin.com/in/alinefigueiredo"
+    },
+    "foto": "",
+    "resumo": "Profissional de SEO focada em ranqueamento orgânico, otimização de conteúdo e análise de palavras-chave.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "habilidadesTecnicas": [
+      "SEO",
+      "Google Analytics",
+      "Keyword Research",
+      "Copywriting",
+      "WordPress"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Comunicação",
+      "Organização"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Aline",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Aline aplicou suas principais competências na área de Marketing."
+      }
+    ],
+    "certificacoes": [
+      "Marketing Digital",
+      "Google Analytics Basics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Marketing",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 22,
+    "nome": "Henrique Monteiro",
+    "cargo": "Analista de BI",
+    "cidade": "Porto Alegre/RS",
+    "area": "Dados",
+    "descricao": "Analista de BI com foco em dashboards, indicadores estratégicos e tomada de decisão orientada por dados.",
+    "habilidades": [
+      "Power BI",
+      "DAX",
+      "ETL",
+      "SQL",
+      "Storytelling"
+    ],
+    "formacao": [
+      {
+        "curso": "Administração - UFRGS",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Analista de BI",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Criação de dashboards executivos para indústria"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Analista de BI",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Implementação de governança de dados em BI"
+      }
+    ],
+    "contato": {
+      "email": "henrique.monteiro@example.com",
+      "linkedin": "https://linkedin.com/in/henriquemonteiro"
+    },
+    "foto": "",
+    "resumo": "Analista de BI com foco em dashboards, indicadores estratégicos e tomada de decisão orientada por dados.",
+    "localizacao": "Porto Alegre/RS",
+    "habilidadesTecnicas": [
+      "Power BI",
+      "DAX",
+      "ETL",
+      "SQL",
+      "Storytelling"
+    ],
+    "softSkills": [
+      "Raciocínio lógico",
+      "Curiosidade",
+      "Comunicação clara"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Henrique",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Henrique aplicou suas principais competências na área de Dados."
+      }
+    ],
+    "certificacoes": [
+      "Fundamentos de Análise de Dados",
+      "Introdução a Machine Learning"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Dados",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 23,
+    "nome": "Sofia Cardoso",
+    "cargo": "Recrutadora Tech",
+    "cidade": "São Paulo/SP",
+    "area": "Recursos Humanos",
+    "descricao": "Recrutadora especialista em vagas de tecnologia, busca ativa e entrevistas por competência.",
+    "habilidades": [
+      "Hunting",
+      "Triagem Técnica",
+      "Entrevistas",
+      "LinkedIn Recruiter",
+      "R&S"
+    ],
+    "formacao": [
+      {
+        "curso": "Recursos Humanos - SENAC",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Recrutadora Tech",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "2 anos recrutando para squads ágeis"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Recrutadora Tech",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Experiência em tech stacks variadas"
+      }
+    ],
+    "contato": {
+      "email": "sofia.cardoso@example.com",
+      "linkedin": "https://linkedin.com/in/sofiacardoso"
+    },
+    "foto": "",
+    "resumo": "Recrutadora especialista em vagas de tecnologia, busca ativa e entrevistas por competência.",
+    "localizacao": "São Paulo/SP",
+    "habilidadesTecnicas": [
+      "Hunting",
+      "Triagem Técnica",
+      "Entrevistas",
+      "LinkedIn Recruiter",
+      "R&S"
+    ],
+    "softSkills": [
+      "Escuta ativa",
+      "Negociação",
+      "Inteligência emocional"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Sofia",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Sofia aplicou suas principais competências na área de Recursos Humanos."
+      }
+    ],
+    "certificacoes": [
+      "Legislação Trabalhista Básica",
+      "Entrevistas por Competência"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Recursos Humanos",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 24,
+    "nome": "Ricardo Menezes",
+    "cargo": "Administrador de Redes",
+    "cidade": "Fortaleza/CE",
+    "area": "Tecnologia",
+    "descricao": "Profissional especializado em infraestrutura, redes corporativas e segurança da informação.",
+    "habilidades": [
+      "Redes",
+      "Cisco",
+      "Firewall",
+      "VPN",
+      "Linux"
+    ],
+    "formacao": [
+      {
+        "curso": "Redes de Computadores - IFCE",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Administrador de Redes",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "4 anos administrando redes em ambientes corporativos"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Administrador de Redes",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Implementação de políticas de segurança e monitoramento"
+      }
+    ],
+    "contato": {
+      "email": "ricardo.menezes@example.com",
+      "linkedin": "https://linkedin.com/in/ricardomenezes"
+    },
+    "foto": "",
+    "resumo": "Profissional especializado em infraestrutura, redes corporativas e segurança da informação.",
+    "localizacao": "Fortaleza/CE",
+    "habilidadesTecnicas": [
+      "Redes",
+      "Cisco",
+      "Firewall",
+      "VPN",
+      "Linux"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resolução de problemas",
+      "Pensamento analítico"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Ricardo",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Ricardo aplicou suas principais competências na área de Tecnologia."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "Git & Versionamento"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 25,
+    "nome": "Amanda Torres",
+    "cargo": "Analista de Suporte Técnico",
+    "cidade": "Manaus/AM",
+    "area": "Tecnologia",
+    "descricao": "Suporte técnico com experiência em atendimento, troubleshooting e documentação técnica.",
+    "habilidades": [
+      "Helpdesk",
+      "Windows",
+      "Linux",
+      "Atendimento",
+      "Documentação"
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação - UEA",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Analista de Suporte Técnico",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em service desk nível 2"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Analista de Suporte Técnico",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Suporte a usuários corporativos e infraestrutura"
+      }
+    ],
+    "contato": {
+      "email": "amanda.torres@example.com",
+      "linkedin": "https://linkedin.com/in/amandatorres"
+    },
+    "foto": "",
+    "resumo": "Suporte técnico com experiência em atendimento, troubleshooting e documentação técnica.",
+    "localizacao": "Manaus/AM",
+    "habilidadesTecnicas": [
+      "Helpdesk",
+      "Windows",
+      "Linux",
+      "Atendimento",
+      "Documentação"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resolução de problemas",
+      "Pensamento analítico"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Amanda",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Amanda aplicou suas principais competências na área de Tecnologia."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "Git & Versionamento"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 26,
+    "nome": "Felipe Aragão",
+    "cargo": "Desenvolvedor Front-End",
+    "cidade": "Brasília/DF",
+    "area": "Tecnologia",
+    "descricao": "Front-end focado em interfaces velozes e acessíveis utilizando React e Tailwind CSS.",
+    "habilidades": [
+      "React",
+      "Tailwind",
+      "JavaScript",
+      "Vite",
+      "Acessibilidade"
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação - UnB",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Desenvolvedor Front-End",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "2 anos como front-end em startup govtech"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Desenvolvedor Front-End",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Criação de interfaces para sistemas de grande escala"
+      }
+    ],
+    "contato": {
+      "email": "felipe.aragao@example.com",
+      "linkedin": "https://linkedin.com/in/felipearagao"
+    },
+    "foto": "",
+    "resumo": "Front-end focado em interfaces velozes e acessíveis utilizando React e Tailwind CSS.",
+    "localizacao": "Brasília/DF",
+    "habilidadesTecnicas": [
+      "React",
+      "Tailwind",
+      "JavaScript",
+      "Vite",
+      "Acessibilidade"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resolução de problemas",
+      "Pensamento analítico"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Felipe",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Felipe aplicou suas principais competências na área de Tecnologia."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "Git & Versionamento"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 27,
+    "nome": "Débora Mattos",
+    "cargo": "Gerente de Projetos",
+    "cidade": "São Paulo/SP",
+    "area": "Gestão de Projetos",
+    "descricao": "GP experiente em planejamento, execução e entrega de projetos de TI em ambientes corporativos.",
+    "habilidades": [
+      "PMBOK",
+      "Scrum",
+      "Gestão de Riscos",
+      "Stakeholder Management",
+      "Comunicação"
+    ],
+    "formacao": [
+      {
+        "curso": "Gestão de TI - FIAP",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Gerente de Projetos",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "7 anos como gerente de projetos em TI"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Gerente de Projetos",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Entrega de projetos estratégicos multimilionários"
+      }
+    ],
+    "contato": {
+      "email": "debora.mattos@example.com",
+      "linkedin": "https://linkedin.com/in/deboramattos"
+    },
+    "foto": "",
+    "resumo": "GP experiente em planejamento, execução e entrega de projetos de TI em ambientes corporativos.",
+    "localizacao": "São Paulo/SP",
+    "habilidadesTecnicas": [
+      "PMBOK",
+      "Scrum",
+      "Gestão de Riscos",
+      "Stakeholder Management",
+      "Comunicação"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Organização",
+      "Adaptabilidade"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Débora",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Débora aplicou suas principais competências na área de Gestão de Projetos."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional na área",
+      "Workshop de Soft Skills"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Gestão de Projetos",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 28,
+    "nome": "Leandro Teixeira",
+    "cargo": "Especialista em Segurança da Informação",
+    "cidade": "Joinville/SC",
+    "area": "Tecnologia",
+    "descricao": "Especialista em segurança com foco em proteção de dados, vulnerabilidades e arquitetura segura.",
+    "habilidades": [
+      "Pentest",
+      "OWASP",
+      "SIEM",
+      "Forense Digital",
+      "Segurança de Redes"
+    ],
+    "formacao": [
+      {
+        "curso": "Segurança da Informação - SENAI",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Especialista em Segurança da Informação",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por governança e compliance em SI"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Especialista em Segurança da Informação",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Condução de testes de invasão para mercado financeiro"
+      }
+    ],
+    "contato": {
+      "email": "leandro.teixeira@example.com",
+      "linkedin": "https://linkedin.com/in/leandroteixeira"
+    },
+    "foto": "",
+    "resumo": "Especialista em segurança com foco em proteção de dados, vulnerabilidades e arquitetura segura.",
+    "localizacao": "Joinville/SC",
+    "habilidadesTecnicas": [
+      "Pentest",
+      "OWASP",
+      "SIEM",
+      "Forense Digital",
+      "Segurança de Redes"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resolução de problemas",
+      "Pensamento analítico"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Leandro",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Leandro aplicou suas principais competências na área de Tecnologia."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "Git & Versionamento"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 29,
+    "nome": "Carla Antunes",
+    "cargo": "Especialista em Atendimento ao Cliente",
+    "cidade": "Recife/PE",
+    "area": "Customer Success",
+    "descricao": "Profissional voltada para atendimento humanizado, acompanhamento de jornada e retenção de clientes.",
+    "habilidades": [
+      "Customer Care",
+      "Relacionamento",
+      "NPS",
+      "Gestão de Reclamações",
+      "CRM"
+    ],
+    "formacao": [
+      {
+        "curso": "Administração - UFPE",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Especialista em Atendimento ao Cliente",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "4 anos atendendo base de clientes no varejo"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Especialista em Atendimento ao Cliente",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Treinamento de novos atendentes para suporte avançado"
+      }
+    ],
+    "contato": {
+      "email": "carla.antunes@example.com",
+      "linkedin": "https://linkedin.com/in/carlaantunes"
+    },
+    "foto": "",
+    "resumo": "Profissional voltada para atendimento humanizado, acompanhamento de jornada e retenção de clientes.",
+    "localizacao": "Recife/PE",
+    "habilidadesTecnicas": [
+      "Customer Care",
+      "Relacionamento",
+      "NPS",
+      "Gestão de Reclamações",
+      "CRM"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Relacionamento",
+      "Foco no cliente"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Carla",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Carla aplicou suas principais competências na área de Customer Success."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional na área",
+      "Workshop de Soft Skills"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Customer Success",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 30,
+    "nome": "Alberto Vasconcelos",
+    "cargo": "Cientista de Machine Learning",
+    "cidade": "Salvador/BA",
+    "area": "Dados",
+    "descricao": "ML Scientist especializado em modelos de NLP, redes neurais profundas e inteligência artificial aplicada.",
+    "habilidades": [
+      "Python",
+      "NLP",
+      "Deep Learning",
+      "TensorFlow",
+      "OpenAI APIs"
+    ],
+    "formacao": [
+      {
+        "curso": "Computação Aplicada - UFBA",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Cientista de Machine Learning",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento de modelos de NLP para call centers"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Cientista de Machine Learning",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Pesquisa aplicada em reconhecimento de voz"
+      }
+    ],
+    "contato": {
+      "email": "alberto.vasconcelos@example.com",
+      "linkedin": "https://linkedin.com/in/albertovasconcelos"
+    },
+    "foto": "",
+    "resumo": "ML Scientist especializado em modelos de NLP, redes neurais profundas e inteligência artificial aplicada.",
+    "localizacao": "Salvador/BA",
+    "habilidadesTecnicas": [
+      "Python",
+      "NLP",
+      "Deep Learning",
+      "TensorFlow",
+      "OpenAI APIs"
+    ],
+    "softSkills": [
+      "Raciocínio lógico",
+      "Curiosidade",
+      "Comunicação clara"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Alberto",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Alberto aplicou suas principais competências na área de Dados."
+      }
+    ],
+    "certificacoes": [
+      "Fundamentos de Análise de Dados",
+      "Introdução a Machine Learning"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Dados",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 31,
+    "nome": "Isabela Tavares",
+    "cargo": "Especialista em Transformação Digital",
+    "cidade": "São Paulo/SP",
+    "area": "Inovação",
+    "descricao": "Profissional focada em modernização de processos, adoção de novas tecnologias e implementação de cultura digital em empresas.",
+    "habilidades": [
+      "Transformação Digital",
+      "Mapeamento de Processos",
+      "Agile",
+      "Lean",
+      "Design Thinking"
+    ],
+    "formacao": [
+      {
+        "curso": "Administração - FEA USP",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Especialista em Transformação Digital",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "3 anos liderando jornadas de transformação digital"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Especialista em Transformação Digital",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Projetos de eficiência operacional com aumento de 40% na produtividade"
+      }
+    ],
+    "contato": {
+      "email": "isabela.tavares@example.com",
+      "linkedin": "https://linkedin.com/in/isabelatavares"
+    },
+    "foto": "",
+    "resumo": "Profissional focada em modernização de processos, adoção de novas tecnologias e implementação de cultura digital em empresas.",
+    "localizacao": "São Paulo/SP",
+    "habilidadesTecnicas": [
+      "Transformação Digital",
+      "Mapeamento de Processos",
+      "Agile",
+      "Lean",
+      "Design Thinking"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Organização",
+      "Adaptabilidade"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Isabela",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Isabela aplicou suas principais competências na área de Inovação."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional na área",
+      "Workshop de Soft Skills"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 32,
+    "nome": "Thiago Barros",
+    "cargo": "Engenheiro de Cloud",
+    "cidade": "Curitiba/PR",
+    "area": "Tecnologia",
+    "descricao": "Especialista em arquiteturas em nuvem com foco em escalabilidade, automação e segurança.",
+    "habilidades": [
+      "AWS",
+      "Azure",
+      "Docker",
+      "Kubernetes",
+      "CI/CD"
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software - PUC PR",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Engenheiro de Cloud",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "5 anos como engenheiro de cloud"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Engenheiro de Cloud",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por migração de datacenter físico para AWS"
+      }
+    ],
+    "contato": {
+      "email": "thiago.barros@example.com",
+      "linkedin": "https://linkedin.com/in/thiagobarros"
+    },
+    "foto": "",
+    "resumo": "Especialista em arquiteturas em nuvem com foco em escalabilidade, automação e segurança.",
+    "localizacao": "Curitiba/PR",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Azure",
+      "Docker",
+      "Kubernetes",
+      "CI/CD"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resolução de problemas",
+      "Pensamento analítico"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Thiago",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Thiago aplicou suas principais competências na área de Tecnologia."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "Git & Versionamento"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 33,
+    "nome": "Patrícia Nogueira",
+    "cargo": "Gestora de Produto Sênior",
+    "cidade": "São Paulo/SP",
+    "area": "Produto",
+    "descricao": "Líder de produto especializada em discovery contínuo, estratégia digital e métricas orientadas a valor.",
+    "habilidades": [
+      "Produtividade",
+      "OKRs",
+      "Discovery",
+      "UX",
+      "Analytics"
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Produção - POLI USP",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Gestora de Produto Sênior",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "7 anos como PM e PM Lead"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Gestora de Produto Sênior",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Gestão de portfólio de produtos com +2M usuários"
+      }
+    ],
+    "contato": {
+      "email": "patricia.nogueira@example.com",
+      "linkedin": "https://linkedin.com/in/patricianogueira"
+    },
+    "foto": "",
+    "resumo": "Líder de produto especializada em discovery contínuo, estratégia digital e métricas orientadas a valor.",
+    "localizacao": "São Paulo/SP",
+    "habilidadesTecnicas": [
+      "Produtividade",
+      "OKRs",
+      "Discovery",
+      "UX",
+      "Analytics"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Organização",
+      "Adaptabilidade"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Patrícia",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Patrícia aplicou suas principais competências na área de Produto."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional na área",
+      "Workshop de Soft Skills"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Produto",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 34,
+    "nome": "André Falcão",
+    "cargo": "Designer de Interação",
+    "cidade": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "descricao": "Designer focado em acessibilidade digital, usabilidade e criação de fluxos intuitivos.",
+    "habilidades": [
+      "Figma",
+      "Acessibilidade",
+      "Arquitetura da Informação",
+      "Design System",
+      "Prototipagem"
+    ],
+    "formacao": [
+      {
+        "curso": "Design - UFRJ",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Designer de Interação",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "4 anos criando interfaces inclusivas"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Designer de Interação",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de acessibilidade nível AA"
+      }
+    ],
+    "contato": {
+      "email": "andre.falcao@example.com",
+      "linkedin": "https://linkedin.com/in/andrefalcao"
+    },
+    "foto": "",
+    "resumo": "Designer focado em acessibilidade digital, usabilidade e criação de fluxos intuitivos.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Acessibilidade",
+      "Arquitetura da Informação",
+      "Design System",
+      "Prototipagem"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Comunicação visual",
+      "Colaboração"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de André",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que André aplicou suas principais competências na área de Design."
+      }
+    ],
+    "certificacoes": [
+      "UX Fundamentals",
+      "UI Design Essentials"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Design",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 35,
+    "nome": "Cecília Ramos",
+    "cargo": "Analista de Dados Jr.",
+    "cidade": "São Luís/MA",
+    "area": "Dados",
+    "descricao": "Profissional em início de carreira com foco em modelagem, visualização e exploração de dados.",
+    "habilidades": [
+      "SQL",
+      "Excel Avançado",
+      "Power BI",
+      "Python",
+      "ETL"
+    ],
+    "formacao": [
+      {
+        "curso": "Estatística - UFMA",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Analista de Dados Jr.",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Estágio em equipe de BI corporativo"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Analista de Dados Jr.",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Projeto de análise exploratória para área de vendas"
+      }
+    ],
+    "contato": {
+      "email": "cecilia.ramos@example.com",
+      "linkedin": "https://linkedin.com/in/ceciliaramos"
+    },
+    "foto": "",
+    "resumo": "Profissional em início de carreira com foco em modelagem, visualização e exploração de dados.",
+    "localizacao": "São Luís/MA",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Excel Avançado",
+      "Power BI",
+      "Python",
+      "ETL"
+    ],
+    "softSkills": [
+      "Raciocínio lógico",
+      "Curiosidade",
+      "Comunicação clara"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Cecília",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Cecília aplicou suas principais competências na área de Dados."
+      }
+    ],
+    "certificacoes": [
+      "Fundamentos de Análise de Dados",
+      "Introdução a Machine Learning"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Dados",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 36,
+    "nome": "Rodrigo Santana",
+    "cargo": "Analista de Infraestrutura",
+    "cidade": "Juiz de Fora/MG",
+    "area": "Tecnologia",
+    "descricao": "Profissional especializado em servidores, redes internas e políticas de segurança.",
+    "habilidades": [
+      "Windows Server",
+      "Linux",
+      "Firewall",
+      "VPN",
+      "Monitoramento"
+    ],
+    "formacao": [
+      {
+        "curso": "Redes de Computadores - IF Sudeste MG",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Analista de Infraestrutura",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "3 anos em equipes de infraestrutura corporativa"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Analista de Infraestrutura",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Responsável pelo ambiente on-premise e nuvem híbrida"
+      }
+    ],
+    "contato": {
+      "email": "rodrigo.santana@example.com",
+      "linkedin": "https://linkedin.com/in/rodrigosantana"
+    },
+    "foto": "",
+    "resumo": "Profissional especializado em servidores, redes internas e políticas de segurança.",
+    "localizacao": "Juiz de Fora/MG",
+    "habilidadesTecnicas": [
+      "Windows Server",
+      "Linux",
+      "Firewall",
+      "VPN",
+      "Monitoramento"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resolução de problemas",
+      "Pensamento analítico"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Rodrigo",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Rodrigo aplicou suas principais competências na área de Tecnologia."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "Git & Versionamento"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 37,
+    "nome": "Helena Rocha",
+    "cargo": "Especialista em Customer Experience",
+    "cidade": "Natal/RN",
+    "area": "Customer Success",
+    "descricao": "CX Specialist com foco em mapeamento de jornadas, voz do cliente e indicadores de experiência.",
+    "habilidades": [
+      "CX",
+      "NPS",
+      "Jornada do Cliente",
+      "Service Design",
+      "CRM"
+    ],
+    "formacao": [
+      {
+        "curso": "Publicidade e Propaganda - UFRN",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Especialista em Customer Experience",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "3 anos em CX para empresas SaaS"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Especialista em Customer Experience",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Projetos de melhoria na jornada do cliente com redução de churn"
+      }
+    ],
+    "contato": {
+      "email": "helena.rocha@example.com",
+      "linkedin": "https://linkedin.com/in/helenaRocha"
+    },
+    "foto": "",
+    "resumo": "CX Specialist com foco em mapeamento de jornadas, voz do cliente e indicadores de experiência.",
+    "localizacao": "Natal/RN",
+    "habilidadesTecnicas": [
+      "CX",
+      "NPS",
+      "Jornada do Cliente",
+      "Service Design",
+      "CRM"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Relacionamento",
+      "Foco no cliente"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Helena",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Helena aplicou suas principais competências na área de Customer Success."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional na área",
+      "Workshop de Soft Skills"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Customer Success",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 38,
+    "nome": "Maurício César",
+    "cargo": "Tech Lead Front-end",
+    "cidade": "São José dos Campos/SP",
+    "area": "Tecnologia",
+    "descricao": "Tech Lead especializado em liderança técnica, arquitetura front-end e evolução de design systems.",
+    "habilidades": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Tailwind",
+      "Arquitetura Front-End"
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software - UNIP",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Tech Lead Front-end",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "6 anos como desenvolvedor front-end"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Tech Lead Front-end",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Liderança técnica em times digitais de alta escala"
+      }
+    ],
+    "contato": {
+      "email": "mauricio.cesar@example.com",
+      "linkedin": "https://linkedin.com/in/mauriciocesar"
+    },
+    "foto": "",
+    "resumo": "Tech Lead especializado em liderança técnica, arquitetura front-end e evolução de design systems.",
+    "localizacao": "São José dos Campos/SP",
+    "habilidadesTecnicas": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Tailwind",
+      "Arquitetura Front-End"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resolução de problemas",
+      "Pensamento analítico"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Maurício",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Maurício aplicou suas principais competências na área de Tecnologia."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "Git & Versionamento"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 39,
+    "nome": "Natalia Lopes",
+    "cargo": "Coordenadora de Marketing",
+    "cidade": "Fortaleza/CE",
+    "area": "Marketing",
+    "descricao": "Coordenadora especialista em campanhas omnichannel, branding e funis de conteúdo.",
+    "habilidades": [
+      "Branding",
+      "SEO",
+      "Google Ads",
+      "Copywriting",
+      "Analytics"
+    ],
+    "formacao": [
+      {
+        "curso": "Marketing - Unifor",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Coordenadora de Marketing",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "6 anos em marketing estratégico"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Coordenadora de Marketing",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Gestão de campanhas com aumento de tráfego em 300%"
+      }
+    ],
+    "contato": {
+      "email": "natalia.lopes@example.com",
+      "linkedin": "https://linkedin.com/in/natalialopes"
+    },
+    "foto": "",
+    "resumo": "Coordenadora especialista em campanhas omnichannel, branding e funis de conteúdo.",
+    "localizacao": "Fortaleza/CE",
+    "habilidadesTecnicas": [
+      "Branding",
+      "SEO",
+      "Google Ads",
+      "Copywriting",
+      "Analytics"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Comunicação",
+      "Organização"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Natalia",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Natalia aplicou suas principais competências na área de Marketing."
+      }
+    ],
+    "certificacoes": [
+      "Marketing Digital",
+      "Google Analytics Basics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Marketing",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 40,
+    "nome": "Roberto Cunha",
+    "cargo": "Analista Financeiro",
+    "cidade": "São Paulo/SP",
+    "area": "Finanças",
+    "descricao": "Profissional de finanças com experiência em fluxo de caixa, projeções e análises financeiras.",
+    "habilidades": [
+      "Excel",
+      "Power BI",
+      "Modelagem Financeira",
+      "Contabilidade",
+      "KPIs"
+    ],
+    "formacao": [
+      {
+        "curso": "Ciências Contábeis - PUC SP",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Analista Financeiro",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "3 anos em finanças corporativas"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Analista Financeiro",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por dashboards executivos financeiros"
+      }
+    ],
+    "contato": {
+      "email": "roberto.cunha@example.com",
+      "linkedin": "https://linkedin.com/in/robertocunha"
+    },
+    "foto": "",
+    "resumo": "Profissional de finanças com experiência em fluxo de caixa, projeções e análises financeiras.",
+    "localizacao": "São Paulo/SP",
+    "habilidadesTecnicas": [
+      "Excel",
+      "Power BI",
+      "Modelagem Financeira",
+      "Contabilidade",
+      "KPIs"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Organização",
+      "Adaptabilidade"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Roberto",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Roberto aplicou suas principais competências na área de Finanças."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional na área",
+      "Workshop de Soft Skills"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Finanças",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 41,
+    "nome": "Letícia Prado",
+    "cargo": "Analista de Qualidade",
+    "cidade": "Curitiba/PR",
+    "area": "Qualidade",
+    "descricao": "Especialista em melhoria contínua, padronização de processos e certificações ISO.",
+    "habilidades": [
+      "ISO 9001",
+      "Lean",
+      "Auditorias",
+      "PDCA",
+      "Documentação"
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Produção - UTFPR",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Analista de Qualidade",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "4 anos em qualidade em indústria"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Analista de Qualidade",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Participação em auditorias e programas de melhoria contínua"
+      }
+    ],
+    "contato": {
+      "email": "leticia.prado@example.com",
+      "linkedin": "https://linkedin.com/in/leticiaprado"
+    },
+    "foto": "",
+    "resumo": "Especialista em melhoria contínua, padronização de processos e certificações ISO.",
+    "localizacao": "Curitiba/PR",
+    "habilidadesTecnicas": [
+      "ISO 9001",
+      "Lean",
+      "Auditorias",
+      "PDCA",
+      "Documentação"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Organização",
+      "Adaptabilidade"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Letícia",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Letícia aplicou suas principais competências na área de Qualidade."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional na área",
+      "Workshop de Soft Skills"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Qualidade",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 42,
+    "nome": "Samuel Ribeiro",
+    "cargo": " Desenvolvedor Java",
+    "cidade": "Maringá/PR",
+    "area": "Tecnologia",
+    "descricao": "Back-end Java com foco em APIs robustas, integração com serviços e comunicação assíncrona.",
+    "habilidades": [
+      "Java",
+      "Spring",
+      "Hibernate",
+      "Mensageria",
+      "PostgreSQL"
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação - UEM",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": " Desenvolvedor Java",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "3 anos como dev Java em empresa de energia"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": " Desenvolvedor Java",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Implementação de APIs REST de alta confiabilidade"
+      }
+    ],
+    "contato": {
+      "email": "samuel.ribeiro@example.com",
+      "linkedin": "https://linkedin.com/in/samuelribeiro"
+    },
+    "foto": "",
+    "resumo": "Back-end Java com foco em APIs robustas, integração com serviços e comunicação assíncrona.",
+    "localizacao": "Maringá/PR",
+    "habilidadesTecnicas": [
+      "Java",
+      "Spring",
+      "Hibernate",
+      "Mensageria",
+      "PostgreSQL"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resolução de problemas",
+      "Pensamento analítico"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Samuel",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Samuel aplicou suas principais competências na área de Tecnologia."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "Git & Versionamento"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 43,
+    "nome": "Bruna Andrade",
+    "cargo": "Assistente de RH",
+    "cidade": "Brasília/DF",
+    "area": "Recursos Humanos",
+    "descricao": "Assistente de RH atuando em recrutamento, treinamento e apoio às rotinas administrativas.",
+    "habilidades": [
+      "Adm. RH",
+      "Entrevistas",
+      "Treinamento",
+      "Onboarding",
+      "Sistemas de RH"
+    ],
+    "formacao": [
+      {
+        "curso": "Gestão de RH - UDF",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Assistente de RH",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "2 anos como assistente de RH"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Assistente de RH",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Apoio em programas de desenvolvimento interno"
+      }
+    ],
+    "contato": {
+      "email": "bruna.andrade@example.com",
+      "linkedin": "https://linkedin.com/in/brunaandrade"
+    },
+    "foto": "",
+    "resumo": "Assistente de RH atuando em recrutamento, treinamento e apoio às rotinas administrativas.",
+    "localizacao": "Brasília/DF",
+    "habilidadesTecnicas": [
+      "Adm. RH",
+      "Entrevistas",
+      "Treinamento",
+      "Onboarding",
+      "Sistemas de RH"
+    ],
+    "softSkills": [
+      "Escuta ativa",
+      "Negociação",
+      "Inteligência emocional"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Bruna",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Bruna aplicou suas principais competências na área de Recursos Humanos."
+      }
+    ],
+    "certificacoes": [
+      "Legislação Trabalhista Básica",
+      "Entrevistas por Competência"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Recursos Humanos",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 44,
+    "nome": "Victor Medeiros",
+    "cargo": "Desenvolvedor Full Stack",
+    "cidade": "Florianópolis/SC",
+    "area": "Tecnologia",
+    "descricao": "Full Stack focado em sistemas web modernos utilizando Node.js, React e bancos não relacionais.",
+    "habilidades": [
+      "Node.js",
+      "React",
+      "MongoDB",
+      "REST",
+      "Docker"
+    ],
+    "formacao": [
+      {
+        "curso": "ADS - SENAI SC",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Desenvolvedor Full Stack",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "4 anos como desenvolvedor em empresas de tecnologia"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Desenvolvedor Full Stack",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Criação de sistemas internos de alta performance"
+      }
+    ],
+    "contato": {
+      "email": "victor.medeiros@example.com",
+      "linkedin": "https://linkedin.com/in/victormedeiros"
+    },
+    "foto": "",
+    "resumo": "Full Stack focado em sistemas web modernos utilizando Node.js, React e bancos não relacionais.",
+    "localizacao": "Florianópolis/SC",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "React",
+      "MongoDB",
+      "REST",
+      "Docker"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resolução de problemas",
+      "Pensamento analítico"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Victor",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Victor aplicou suas principais competências na área de Tecnologia."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "Git & Versionamento"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 45,
+    "nome": "Elisa Fernandes",
+    "cargo": "Analista de Suporte N2",
+    "cidade": "Vitória/ES",
+    "area": "Tecnologia",
+    "descricao": "Suporte técnico nível 2 especialista em troubleshooting avançado e monitoramento de sistemas.",
+    "habilidades": [
+      "Linux",
+      "Windows Server",
+      "Tickets N2",
+      "Monitoramento",
+      "Documentação"
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação - UVV",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Analista de Suporte N2",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "3 anos como suporte especializado para empresas SaaS"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Analista de Suporte N2",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Documentação de incidentes e melhorias"
+      }
+    ],
+    "contato": {
+      "email": "elisa.fernandes@example.com",
+      "linkedin": "https://linkedin.com/in/elisafernandes"
+    },
+    "foto": "",
+    "resumo": "Suporte técnico nível 2 especialista em troubleshooting avançado e monitoramento de sistemas.",
+    "localizacao": "Vitória/ES",
+    "habilidadesTecnicas": [
+      "Linux",
+      "Windows Server",
+      "Tickets N2",
+      "Monitoramento",
+      "Documentação"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resolução de problemas",
+      "Pensamento analítico"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Elisa",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Elisa aplicou suas principais competências na área de Tecnologia."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "Git & Versionamento"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 46,
+    "nome": "Renata Azevedo",
+    "cargo": "Analista de Compliance",
+    "cidade": "São Paulo/SP",
+    "area": "Governança",
+    "descricao": "Profissional de compliance focada em políticas internas, aderência regulatória e mitigação de riscos.",
+    "habilidades": [
+      "Compliance",
+      "LGPD",
+      "Mapeamento de Riscos",
+      "Políticas Internas",
+      "Auditorias"
+    ],
+    "formacao": [
+      {
+        "curso": "Direito - PUC SP",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Analista de Compliance",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "4 anos em áreas de compliance em serviços financeiros"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Analista de Compliance",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Implantação de políticas alinhadas à LGPD"
+      }
+    ],
+    "contato": {
+      "email": "renata.azevedo@example.com",
+      "linkedin": "https://linkedin.com/in/renataazevedo"
+    },
+    "foto": "",
+    "resumo": "Profissional de compliance focada em políticas internas, aderência regulatória e mitigação de riscos.",
+    "localizacao": "São Paulo/SP",
+    "habilidadesTecnicas": [
+      "Compliance",
+      "LGPD",
+      "Mapeamento de Riscos",
+      "Políticas Internas",
+      "Auditorias"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Organização",
+      "Adaptabilidade"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Renata",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Renata aplicou suas principais competências na área de Governança."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional na área",
+      "Workshop de Soft Skills"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Governança",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 47,
+    "nome": "Igor Campos",
+    "cargo": "Analista de Sistemas",
+    "cidade": "São Paulo/SP",
+    "area": "Tecnologia",
+    "descricao": "Analista de sistemas especializado em levantamento de requisitos, modelagem e integração entre áreas de negócio e TI.",
+    "habilidades": [
+      "Levantamento de Requisitos",
+      "UML",
+      "Documentação",
+      "SQL",
+      "Integrações"
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação - FIAP",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "3 anos como analista em sistemas corporativos"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de ERP e sistemas internos"
+      }
+    ],
+    "contato": {
+      "email": "igor.campos@example.com",
+      "linkedin": "https://linkedin.com/in/igorcampos"
+    },
+    "foto": "",
+    "resumo": "Analista de sistemas especializado em levantamento de requisitos, modelagem e integração entre áreas de negócio e TI.",
+    "localizacao": "São Paulo/SP",
+    "habilidadesTecnicas": [
+      "Levantamento de Requisitos",
+      "UML",
+      "Documentação",
+      "SQL",
+      "Integrações"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resolução de problemas",
+      "Pensamento analítico"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Igor",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Igor aplicou suas principais competências na área de Tecnologia."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "Git & Versionamento"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 48,
+    "nome": "Melissa Duarte",
+    "cargo": "Analista de Mídias Sociais",
+    "cidade": "Belo Horizonte/MG",
+    "area": "Marketing",
+    "descricao": "Responsável por estratégias de conteúdo, planejamento editorial e análise de performance em redes sociais.",
+    "habilidades": [
+      "Social Media",
+      "Planejamento de Conteúdo",
+      "Copywriting",
+      "Métricas",
+      "Canva"
+    ],
+    "formacao": [
+      {
+        "curso": "Jornalismo - UFMG",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Analista de Mídias Sociais",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "3 anos em gestão de redes para marcas de varejo"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Analista de Mídias Sociais",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Criação de campanhas com alto engajamento orgânico"
+      }
+    ],
+    "contato": {
+      "email": "melissa.duarte@example.com",
+      "linkedin": "https://linkedin.com/in/melissaduarte"
+    },
+    "foto": "",
+    "resumo": "Responsável por estratégias de conteúdo, planejamento editorial e análise de performance em redes sociais.",
+    "localizacao": "Belo Horizonte/MG",
+    "habilidadesTecnicas": [
+      "Social Media",
+      "Planejamento de Conteúdo",
+      "Copywriting",
+      "Métricas",
+      "Canva"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Comunicação",
+      "Organização"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Melissa",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Melissa aplicou suas principais competências na área de Marketing."
+      }
+    ],
+    "certificacoes": [
+      "Marketing Digital",
+      "Google Analytics Basics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Marketing",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 49,
+    "nome": "Caio Albuquerque",
+    "cargo": "Desenvolvedor Python",
+    "cidade": "Recife/PE",
+    "area": "Tecnologia",
+    "descricao": "Dev Python com foco em automação de processos, integrações e APIs para backend.",
+    "habilidades": [
+      "Python",
+      "Django",
+      "Flask",
+      "APIs REST",
+      "Automação"
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação - UFPE",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Desenvolvedor Python",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "2 anos desenvolvendo APIs para produtos digitais"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Desenvolvedor Python",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Projetos de automação de rotinas de backoffice"
+      }
+    ],
+    "contato": {
+      "email": "caio.albuquerque@example.com",
+      "linkedin": "https://linkedin.com/in/caioalbuquerque"
+    },
+    "foto": "",
+    "resumo": "Dev Python com foco em automação de processos, integrações e APIs para backend.",
+    "localizacao": "Recife/PE",
+    "habilidadesTecnicas": [
+      "Python",
+      "Django",
+      "Flask",
+      "APIs REST",
+      "Automação"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resolução de problemas",
+      "Pensamento analítico"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Caio",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Caio aplicou suas principais competências na área de Tecnologia."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "Git & Versionamento"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 50,
+    "nome": "Rafaela Pires",
+    "cargo": "People Partner",
+    "cidade": "São Paulo/SP",
+    "area": "Recursos Humanos",
+    "descricao": "Parceira de negócios de RH focada em desenvolvimento de líderes, clima e performance.",
+    "habilidades": [
+      "Business Partner",
+      "Clima",
+      "Desenvolvimento de Liderança",
+      "Feedback",
+      "Cultura"
+    ],
+    "formacao": [
+      {
+        "curso": "Psicologia - Mackenzie",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "People Partner",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "5 anos como BP em empresas de tecnologia"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "People Partner",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Condução de ciclos de performance e sucessão"
+      }
+    ],
+    "contato": {
+      "email": "rafaela.pires@example.com",
+      "linkedin": "https://linkedin.com/in/rafaelapires"
+    },
+    "foto": "",
+    "resumo": "Parceira de negócios de RH focada em desenvolvimento de líderes, clima e performance.",
+    "localizacao": "São Paulo/SP",
+    "habilidadesTecnicas": [
+      "Business Partner",
+      "Clima",
+      "Desenvolvimento de Liderança",
+      "Feedback",
+      "Cultura"
+    ],
+    "softSkills": [
+      "Escuta ativa",
+      "Negociação",
+      "Inteligência emocional"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Rafaela",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Rafaela aplicou suas principais competências na área de Recursos Humanos."
+      }
+    ],
+    "certificacoes": [
+      "Legislação Trabalhista Básica",
+      "Entrevistas por Competência"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Recursos Humanos",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 51,
+    "nome": "Daniel Vieira",
+    "cargo": "Engenheiro de Testes",
+    "cidade": "Porto Alegre/RS",
+    "area": "Tecnologia",
+    "descricao": "Engenheiro de testes especializado em automação, testes de performance e qualidade de software.",
+    "habilidades": [
+      "Selenium",
+      "Cypress",
+      "Testes de Performance",
+      "JUnit",
+      "APIs"
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Computação - PUCRS",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Engenheiro de Testes",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "4 anos em times de QA ágeis"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Engenheiro de Testes",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Criação de suites de testes automatizados para produtos web"
+      }
+    ],
+    "contato": {
+      "email": "daniel.vieira@example.com",
+      "linkedin": "https://linkedin.com/in/danielvieira"
+    },
+    "foto": "",
+    "resumo": "Engenheiro de testes especializado em automação, testes de performance e qualidade de software.",
+    "localizacao": "Porto Alegre/RS",
+    "habilidadesTecnicas": [
+      "Selenium",
+      "Cypress",
+      "Testes de Performance",
+      "JUnit",
+      "APIs"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resolução de problemas",
+      "Pensamento analítico"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Daniel",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Daniel aplicou suas principais competências na área de Tecnologia."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "Git & Versionamento"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 52,
+    "nome": "Júlia Santana",
+    "cargo": "Cientista de Dados Jr.",
+    "cidade": "Campinas/SP",
+    "area": "Dados",
+    "descricao": "Cientista de dados em início de carreira, focada em modelos preditivos simples e análises exploratórias.",
+    "habilidades": [
+      "Python",
+      "Pandas",
+      "Scikit-learn",
+      "SQL",
+      "Power BI"
+    ],
+    "formacao": [
+      {
+        "curso": "Matemática Aplicada - UNICAMP",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Cientista de Dados Jr.",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Estágio em equipe de ciência de dados"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Cientista de Dados Jr.",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Participação em projetos de previsão de demanda"
+      }
+    ],
+    "contato": {
+      "email": "julia.santana@example.com",
+      "linkedin": "https://linkedin.com/in/juliasantana"
+    },
+    "foto": "",
+    "resumo": "Cientista de dados em início de carreira, focada em modelos preditivos simples e análises exploratórias.",
+    "localizacao": "Campinas/SP",
+    "habilidadesTecnicas": [
+      "Python",
+      "Pandas",
+      "Scikit-learn",
+      "SQL",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Raciocínio lógico",
+      "Curiosidade",
+      "Comunicação clara"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Júlia",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Júlia aplicou suas principais competências na área de Dados."
+      }
+    ],
+    "certificacoes": [
+      "Fundamentos de Análise de Dados",
+      "Introdução a Machine Learning"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Dados",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 53,
+    "nome": "Otávio Luz",
+    "cargo": "Coordenador de Suporte",
+    "cidade": "São Paulo/SP",
+    "area": "Operações",
+    "descricao": "Coordenador com foco em atendimento ao cliente, gestão de times de suporte e SLAs.",
+    "habilidades": [
+      "Gestão de Equipes",
+      "SLA",
+      "Atendimento",
+      "Service Desk",
+      "Indicadores"
+    ],
+    "formacao": [
+      {
+        "curso": "Administração - UNIP",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Coordenador de Suporte",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "5 anos liderando equipes de suporte técnico"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Coordenador de Suporte",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Implantação de indicadores de atendimento e satisfação"
+      }
+    ],
+    "contato": {
+      "email": "otavio.luz@example.com",
+      "linkedin": "https://linkedin.com/in/otavioluz"
+    },
+    "foto": "",
+    "resumo": "Coordenador com foco em atendimento ao cliente, gestão de times de suporte e SLAs.",
+    "localizacao": "São Paulo/SP",
+    "habilidadesTecnicas": [
+      "Gestão de Equipes",
+      "SLA",
+      "Atendimento",
+      "Service Desk",
+      "Indicadores"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Organização",
+      "Adaptabilidade"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Otávio",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Otávio aplicou suas principais competências na área de Operações."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional na área",
+      "Workshop de Soft Skills"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Operações",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 54,
+    "nome": "Marina Beltrão",
+    "cargo": "UX Researcher",
+    "cidade": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "descricao": "Pesquisadora de UX focada em entrevistas, testes de usabilidade e análise de comportamento de usuários.",
+    "habilidades": [
+      "UX Research",
+      "Entrevistas",
+      "Testes de Usabilidade",
+      "Personas",
+      "Mapas de Jornada"
+    ],
+    "formacao": [
+      {
+        "curso": "Psicologia - UFRJ",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "UX Researcher",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "3 anos em pesquisas para produtos digitais"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "UX Researcher",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Condução de estudos qualitativos e quantitativos"
+      }
+    ],
+    "contato": {
+      "email": "marina.beltrao@example.com",
+      "linkedin": "https://linkedin.com/in/marinabeltrao"
+    },
+    "foto": "",
+    "resumo": "Pesquisadora de UX focada em entrevistas, testes de usabilidade e análise de comportamento de usuários.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "habilidadesTecnicas": [
+      "UX Research",
+      "Entrevistas",
+      "Testes de Usabilidade",
+      "Personas",
+      "Mapas de Jornada"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Comunicação visual",
+      "Colaboração"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Marina",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Marina aplicou suas principais competências na área de Design."
+      }
+    ],
+    "certificacoes": [
+      "UX Fundamentals",
+      "UI Design Essentials"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Design",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 55,
+    "nome": "Alexandre Souza",
+    "cargo": "Engenheiro Front-End",
+    "cidade": "São Paulo/SP",
+    "area": "Tecnologia",
+    "descricao": "Front-end engineer focado em performance, acessibilidade e arquitetura de componentes reutilizáveis.",
+    "habilidades": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Tailwind",
+      "Performance Web"
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Computação - Insper",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Engenheiro Front-End",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "5 anos em produtos digitais B2C"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Engenheiro Front-End",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Implementação de design systems e bibliotecas de componentes"
+      }
+    ],
+    "contato": {
+      "email": "alexandre.souza@example.com",
+      "linkedin": "https://linkedin.com/in/alexandresouza"
+    },
+    "foto": "",
+    "resumo": "Front-end engineer focado em performance, acessibilidade e arquitetura de componentes reutilizáveis.",
+    "localizacao": "São Paulo/SP",
+    "habilidadesTecnicas": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Tailwind",
+      "Performance Web"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resolução de problemas",
+      "Pensamento analítico"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Alexandre",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Alexandre aplicou suas principais competências na área de Tecnologia."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "Git & Versionamento"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 56,
+    "nome": "Priscila Oliveira",
+    "cargo": "Analista de Treinamento e Desenvolvimento",
+    "cidade": "Curitiba/PR",
+    "area": "Recursos Humanos",
+    "descricao": "Profissional focada em trilhas de desenvolvimento, treinamentos comportamentais e técnicas de facilitação.",
+    "habilidades": [
+      "T&D",
+      "Facilitação",
+      "Design de Treinamento",
+      "Avaliação de Desempenho",
+      "Onboarding"
+    ],
+    "formacao": [
+      {
+        "curso": "Pedagogia - UFPR",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Analista de Treinamento e Desenvolvimento",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "4 anos em T&D em empresas de serviços"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Analista de Treinamento e Desenvolvimento",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Criação de trilhas de desenvolvimento para novos líderes"
+      }
+    ],
+    "contato": {
+      "email": "priscila.oliveira@example.com",
+      "linkedin": "https://linkedin.com/in/priscilaoliveira"
+    },
+    "foto": "",
+    "resumo": "Profissional focada em trilhas de desenvolvimento, treinamentos comportamentais e técnicas de facilitação.",
+    "localizacao": "Curitiba/PR",
+    "habilidadesTecnicas": [
+      "T&D",
+      "Facilitação",
+      "Design de Treinamento",
+      "Avaliação de Desempenho",
+      "Onboarding"
+    ],
+    "softSkills": [
+      "Escuta ativa",
+      "Negociação",
+      "Inteligência emocional"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Priscila",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Priscila aplicou suas principais competências na área de Recursos Humanos."
+      }
+    ],
+    "certificacoes": [
+      "Legislação Trabalhista Básica",
+      "Entrevistas por Competência"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Recursos Humanos",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 57,
+    "nome": "Leonardo Braga",
+    "cargo": "Engenheiro de Dados Sênior",
+    "cidade": "São Paulo/SP",
+    "area": "Dados",
+    "descricao": "Engenheiro de dados sênior especialista em arquiteturas de dados modernas, pipelines e governança.",
+    "habilidades": [
+      "Data Lakes",
+      "Airflow",
+      "Spark",
+      "SQL",
+      "Governança de Dados"
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Computação - POLI USP",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Engenheiro de Dados Sênior",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "8 anos em times de dados"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Engenheiro de Dados Sênior",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Liderança técnica em projetos de modernização de dados"
+      }
+    ],
+    "contato": {
+      "email": "leonardo.braga@example.com",
+      "linkedin": "https://linkedin.com/in/leonardobraga"
+    },
+    "foto": "",
+    "resumo": "Engenheiro de dados sênior especialista em arquiteturas de dados modernas, pipelines e governança.",
+    "localizacao": "São Paulo/SP",
+    "habilidadesTecnicas": [
+      "Data Lakes",
+      "Airflow",
+      "Spark",
+      "SQL",
+      "Governança de Dados"
+    ],
+    "softSkills": [
+      "Raciocínio lógico",
+      "Curiosidade",
+      "Comunicação clara"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Leonardo",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Leonardo aplicou suas principais competências na área de Dados."
+      }
+    ],
+    "certificacoes": [
+      "Fundamentos de Análise de Dados",
+      "Introdução a Machine Learning"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Dados",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 58,
+    "nome": "Camila Rezende",
+    "cargo": "Analista de Operações",
+    "cidade": "Belo Horizonte/MG",
+    "area": "Operações",
+    "descricao": "Analista voltada para eficiência operacional, mapeamento de processos e melhoria contínua.",
+    "habilidades": [
+      "Processos",
+      "KPIs",
+      "Excel Avançado",
+      "Power BI",
+      "Lean"
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Produção - UFMG",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Analista de Operações",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "3 anos em operações em empresas de logística"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Analista de Operações",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por indicadores de nível de serviço"
+      }
+    ],
+    "contato": {
+      "email": "camila.rezende@example.com",
+      "linkedin": "https://linkedin.com/in/camilaresende"
+    },
+    "foto": "",
+    "resumo": "Analista voltada para eficiência operacional, mapeamento de processos e melhoria contínua.",
+    "localizacao": "Belo Horizonte/MG",
+    "habilidadesTecnicas": [
+      "Processos",
+      "KPIs",
+      "Excel Avançado",
+      "Power BI",
+      "Lean"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Organização",
+      "Adaptabilidade"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Camila",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Camila aplicou suas principais competências na área de Operações."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional na área",
+      "Workshop de Soft Skills"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Operações",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 59,
+    "nome": "Fábio Nascimento",
+    "cargo": "Administrador de Sistemas",
+    "cidade": "Florianópolis/SC",
+    "area": "Tecnologia",
+    "descricao": "Admin de sistemas especializado em ambientes Linux, automação e observabilidade.",
+    "habilidades": [
+      "Linux",
+      "Shell Script",
+      "Ansible",
+      "Monitoramento",
+      "CI/CD"
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação - UFSC",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Administrador de Sistemas",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "6 anos como administrador de sistemas"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Administrador de Sistemas",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Automação de rotinas e redução de incidentes críticos"
+      }
+    ],
+    "contato": {
+      "email": "fabio.nascimento@example.com",
+      "linkedin": "https://linkedin.com/in/fabionascimento"
+    },
+    "foto": "",
+    "resumo": "Admin de sistemas especializado em ambientes Linux, automação e observabilidade.",
+    "localizacao": "Florianópolis/SC",
+    "habilidadesTecnicas": [
+      "Linux",
+      "Shell Script",
+      "Ansible",
+      "Monitoramento",
+      "CI/CD"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resolução de problemas",
+      "Pensamento analítico"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Fábio",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Fábio aplicou suas principais competências na área de Tecnologia."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "Git & Versionamento"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  },
+  {
+    "id": 60,
+    "nome": "Ana Beatriz Franco",
+    "cargo": "Product Designer",
+    "cidade": "São Paulo/SP",
+    "area": "Design",
+    "descricao": "Product Designer focada em soluções centradas no usuário, testes constantes e métricas de produto.",
+    "habilidades": [
+      "UX",
+      "UI",
+      "Figma",
+      "Design System",
+      "Testes de Usabilidade"
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital - SENAC",
+        "instituicao": "Instituição Exemplo",
+        "ano": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Product Designer",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "5 anos em produtos digitais B2B e B2C"
+      },
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Product Designer",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Atuação próxima a times de produto, dados e tecnologia"
+      }
+    ],
+    "contato": {
+      "email": "ana.bfranco@example.com",
+      "linkedin": "https://linkedin.com/in/anabeatrizfranco"
+    },
+    "foto": "",
+    "resumo": "Product Designer focada em soluções centradas no usuário, testes constantes e métricas de produto.",
+    "localizacao": "São Paulo/SP",
+    "habilidadesTecnicas": [
+      "UX",
+      "UI",
+      "Figma",
+      "Design System",
+      "Testes de Usabilidade"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Comunicação visual",
+      "Colaboração"
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto destaque de Ana",
+        "link": "https://example.com/projeto",
+        "descricao": "Projeto em que Ana aplicou suas principais competências na área de Design."
+      }
+    ],
+    "certificacoes": [
+      "UX Fundamentals",
+      "UI Design Essentials"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Design",
+      "Inovação",
+      "Desenvolvimento Profissional"
+    ]
+  }
+]
