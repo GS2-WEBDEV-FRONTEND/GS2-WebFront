@@ -22,11 +22,19 @@ function PerfilProfissional() {
     setProfissionalSelecionado(null)
   }
 
-  const areasUnicas = Array.from(new Set(profissionais.map((p) => p.area)))
+  const areasUnicas = Array.from(
+    new Set(
+      profissionais
+        .map((p) => p.area)
+        .filter((v) => v) // evita "undefined" na lista
+    )
+  )
 
   const localizacoesUnicas = Array.from(
     new Set(
-      profissionais.map((p) => p.localizacao || p.cidade || "").filter((v) => v)
+      profissionais
+        .map((p) => p.localizacao || p.cidade || "")
+        .filter((v) => v)
     )
   )
 
@@ -35,20 +43,20 @@ function PerfilProfissional() {
 
     const localizacao = (pessoa.localizacao || pessoa.cidade || "").toLowerCase()
 
-    const habilidadesTecnicas = pessoa.habilidadesTecnicas || pessoa.habilidades || []
+    const habilidadesTecnicas =
+      pessoa.habilidadesTecnicas || pessoa.habilidades || []
     const softSkills = pessoa.softSkills || []
 
     const correspondeBusca =
       !termo ||
       pessoa.nome.toLowerCase().includes(termo) ||
-      pessoa.cargo.toLowerCase().includes(termo) ||
+      (pessoa.cargo || "").toLowerCase().includes(termo) ||
       (pessoa.resumo || pessoa.descricao || "").toLowerCase().includes(termo) ||
       habilidadesTecnicas.some((h) => h.toLowerCase().includes(termo)) ||
       softSkills.some((s) => s.toLowerCase().includes(termo)) ||
       localizacao.includes(termo)
 
-    const correspondeArea =
-      filtroArea === "Todas" || pessoa.area === filtroArea
+    const correspondeArea = filtroArea === "Todas" || pessoa.area === filtroArea
 
     const correspondeLocalizacao =
       filtroLocalizacao === "Todas" ||
@@ -83,16 +91,14 @@ function PerfilProfissional() {
 
         <main className="max-w-6xl mx-auto px-4 py-10 space-y-8">
           <section className="rounded-3xl border border-slate-800/80 bg-slate-900/80 shadow-[0_18px_45px_rgba(15,23,42,0.85)] backdrop-blur-md px-5 py-7 md:px-8 md:py-8 space-y-8">
-
             <div className="grid gap-8 lg:grid-cols-[minmax(0,2.1fr)_minmax(0,1.2fr)] items-start">
-
               {/* Esquerda */}
               <div className="space-y-5">
                 <div className="space-y-3">
                   <span className="inline-flex items-center gap-2 rounded-full border border-indigo-500/40 bg-indigo-500/10 px-3 py-1 text-[11px] font-semibold text-indigo-200">
                     Plataforma FuturosTalentos
                     <span className="inline-block h-1 w-1 rounded-full bg-indigo-400" />
-                    Perfis completos 
+                    Perfis completos
                   </span>
 
                   <div className="space-y-2">
@@ -108,7 +114,6 @@ function PerfilProfissional() {
                 {/* Busca + filtros */}
                 <div className="mt-4 space-y-3">
                   <div className="flex flex-col gap-3 md:flex-row md:items-center">
-
                     <div className="flex-1 relative">
                       <input
                         type="text"
@@ -146,7 +151,6 @@ function PerfilProfissional() {
                         ))}
                       </select>
                     </div>
-
                   </div>
 
                   {/* Chips */}
@@ -159,17 +163,22 @@ function PerfilProfissional() {
                       <>
                         {termoBusca && (
                           <span className="inline-flex items-center gap-1 rounded-full bg-indigo-500/15 border border-indigo-500/40 px-2.5 py-1 text-indigo-100">
-                            Busca: <span className="font-medium">{termoBusca}</span>
+                            Busca:{" "}
+                            <span className="font-medium">{termoBusca}</span>
                           </span>
                         )}
                         {filtroArea !== "Todas" && (
                           <span className="inline-flex items-center gap-1 rounded-full bg-purple-500/15 border border-purple-500/40 px-2.5 py-1 text-purple-100">
-                            Área: <span className="font-medium">{filtroArea}</span>
+                            Área:{" "}
+                            <span className="font-medium">{filtroArea}</span>
                           </span>
                         )}
                         {filtroLocalizacao !== "Todas" && (
                           <span className="inline-flex items-center gap-1 rounded-full bg-sky-500/15 border border-sky-500/40 px-2.5 py-1 text-sky-100">
-                            Localização: <span className="font-medium">{filtroLocalizacao}</span>
+                            Localização:{" "}
+                            <span className="font-medium">
+                              {filtroLocalizacao}
+                            </span>
                           </span>
                         )}
 
@@ -192,7 +201,6 @@ function PerfilProfissional() {
 
               {/* Direita — stats */}
               <div className="space-y-4 rounded-2xl border border-slate-800 bg-slate-950/70 p-5 shadow-lg shadow-black/40">
-
                 <h3 className="text-sm font-semibold text-slate-100 mb-1">
                   Visão geral da base de talentos
                 </h3>
@@ -202,24 +210,29 @@ function PerfilProfissional() {
                     <p className="text-[10px] uppercase tracking-wide text-slate-400">
                       Perfis
                     </p>
-                    <p className="mt-1 text-lg font-semibold text-indigo-300">{total}</p>
+                    <p className="mt-1 text-lg font-semibold text-indigo-300">
+                      {total}
+                    </p>
                   </div>
 
                   <div className="rounded-xl bg-slate-900/80 p-3 border border-slate-700/80">
                     <p className="text-[10px] uppercase tracking-wide text-slate-400">
                       Áreas
                     </p>
-                    <p className="mt-1 text-lg font-semibold text-indigo-300">{areasUnicas.length}</p>
+                    <p className="mt-1 text-lg font-semibold text-indigo-300">
+                      {areasUnicas.length}
+                    </p>
                   </div>
 
                   <div className="rounded-xl bg-slate-900/80 p-3 border border-slate-700/80">
                     <p className="text-[10px] uppercase tracking-wide text-slate-400">
                       Cidades
                     </p>
-                    <p className="mt-1 text-lg font-semibold text-indigo-300">{localizacoesUnicas.length}</p>
+                    <p className="mt-1 text-lg font-semibold text-indigo-300">
+                      {localizacoesUnicas.length}
+                    </p>
                   </div>
                 </div>
-
               </div>
             </div>
 
@@ -230,7 +243,8 @@ function PerfilProfissional() {
                   Profissionais em destaque
                 </h3>
                 <span className="text-[11px] text-slate-400">
-                  Mostrando {profissionaisExibidos.length} de {totalFiltrados} resultados
+                  Mostrando {profissionaisExibidos.length} de {totalFiltrados}{" "}
+                  resultados
                 </span>
               </div>
 
@@ -244,12 +258,30 @@ function PerfilProfissional() {
                 <>
                   <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
                     {profissionaisExibidos.map((pessoa) => {
-                      const iniciais = pessoa.nome.split(" ").map(n => n[0]).join("").slice(0, 2)
+                      const iniciais = pessoa.nome
+                        .split(" ")
+                        .map((n) => n[0])
+                        .join("")
+                        .slice(0, 2)
+
                       const resumo =
-                        pessoa.resumo || pessoa.descricao || "Profissional em destaque."
-                      const localizacao = pessoa.localizacao || pessoa.cidade || "Brasil"
+                        pessoa.resumo ||
+                        pessoa.descricao ||
+                        "Profissional em destaque."
+
+                      const localizacao =
+                        pessoa.localizacao || pessoa.cidade || "Brasil"
+
                       const habilidadesTecnicas =
-                        pessoa.habilidadesTecnicas || pessoa.habilidades || []
+                        pessoa.habilidadesTecnicas ||
+                        pessoa.habilidades ||
+                        []
+
+                      const avatarUrl =
+                        pessoa.foto ||
+                        `https://i.pravatar.cc/150?u=${encodeURIComponent(
+                          pessoa.email || pessoa.nome
+                        )}`
 
                       return (
                         <article
@@ -257,20 +289,34 @@ function PerfilProfissional() {
                           className="group relative overflow-hidden rounded-2xl border border-slate-800 bg-slate-950/70 p-4 transition hover:-translate-y-1 hover:border-indigo-400/80 hover:shadow-lg hover:shadow-indigo-500/25"
                         >
                           <div className="flex items-center gap-3">
-                            <div className="h-11 w-11 rounded-full bg-gradient-to-tr from-indigo-500 to-purple-600 text-xs font-semibold text-white flex items-center justify-center">
-                              {iniciais}
+                            <div className="h-11 w-11 rounded-full border border-slate-700 overflow-hidden flex items-center justify-center bg-slate-900 text-xs font-semibold text-slate-100">
+                              <img
+                                src={avatarUrl}
+                                alt={pessoa.nome}
+                                className="h-full w-full object-cover"
+                                onError={(e) => {
+                                  e.target.style.display = "none"
+                                  e.target.parentElement.textContent = iniciais
+                                }}
+                              />
                             </div>
 
                             <div>
-                              <h4 className="text-sm font-semibold text-slate-50">{pessoa.nome}</h4>
-                              <p className="text-xs text-slate-400">{pessoa.cargo}</p>
+                              <h4 className="text-sm font-semibold text-slate-100">
+                                {pessoa.nome}
+                              </h4>
+                              <p className="text-xs text-slate-400">
+                                {pessoa.cargo || "Profissional"}
+                              </p>
                               <p className="mt-1 text-[11px] text-indigo-300">
                                 {pessoa.area} • {localizacao}
                               </p>
                             </div>
                           </div>
 
-                          <p className="mt-2 text-xs text-slate-300 line-clamp-3">{resumo}</p>
+                          <p className="mt-2 text-xs text-slate-300 line-clamp-3">
+                            {resumo}
+                          </p>
 
                           <div className="mt-3 flex flex-wrap gap-1.5">
                             {habilidadesTecnicas.slice(0, 4).map((hab) => (
@@ -301,7 +347,9 @@ function PerfilProfissional() {
                       <button
                         type="button"
                         onClick={() =>
-                          setLimiteExibicao((valor) => Math.min(valor + 6, totalFiltrados))
+                          setLimiteExibicao((valor) =>
+                            Math.min(valor + 6, totalFiltrados)
+                          )
                         }
                         className="rounded-full border border-indigo-500/70 bg-indigo-600/20 px-4 py-2 text-xs font-medium text-indigo-100 hover:bg-indigo-500/30 hover:border-indigo-400"
                       >
@@ -316,7 +364,10 @@ function PerfilProfissional() {
         </main>
 
         {profissionalSelecionado && (
-          <ModalProfissional profissional={profissionalSelecionado} onClose={fecharModal} />
+          <ModalProfissional
+            profissional={profissionalSelecionado}
+            onClose={fecharModal}
+          />
         )}
       </div>
     </div>
