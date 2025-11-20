@@ -5,6 +5,8 @@ Gabriel Dos Santos Cardoso - 562103
 Lucas Oliveira Santos - 563617
 Gustavo Torres Caldeira - 561613
 
+REPO LINK -  https://github.com/GS2-WEBDEV-FRONTEND/GS2-WebFront.git
+
 Sobre o projeto
 
 O FuturosTalentos é uma plataforma web construída em React + Tailwind + Node.js, que apresenta uma base de perfis profissionais fictícios estruturados conforme o modelo exigido pela FIAP.
@@ -28,6 +30,8 @@ O projeto foi dividido em frontend e backend, seguindo boas práticas de organiz
 
 Funcionalidades implementadas
 Frontend (React + Vite + TailwindCSS)
+
+
 
 Listagem de mais de 60 perfis profissionais
 Busca em tempo real por nome, cargo, habilidades e cidade
